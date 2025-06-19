@@ -1,0 +1,10 @@
+1. Paperswithcode for MIS, Light-M Paper
+2. Anjali Mam Papers
+3. https://courses.cs.washington.edu/courses/cse576/18sp/notes/ESPNet_Sachin.pdf
+4. resource constrained image segmentation
+5. cnn quantization using bitsandbytes
+6. smallest model for image segmentation, https://docs.ultralytics.com/models/yolov8/#supported-tasks-and-modes
+7. SNNTorch: https://github.com/jeshraghian/snntorch https://arxiv.org/abs/2106.08921
+8. lightweight models vision hub
+9. https://github.com/open-mmlab/mmsegmentation
+10. https://docs.google.com/spreadsheets/d/1EG3JOpOv3CHSQZLgum2I7SS12nHKheUxQ8C3tvReFX4/edit?gid=0#gid=0

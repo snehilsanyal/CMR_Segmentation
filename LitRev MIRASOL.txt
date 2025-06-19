@@ -1,0 +1,161 @@
+Resource COnstrained Medical Image Segmentation
+Lightweight CNNs for Medical Image Segmentation
+
+PEFT Strategies for CNNs: LoraConv, SSF
+
+MobileNet (CNNs for Embedded and Vision)
+TFLite (Check for models) 
+TorchLite??
+
+
+
+Networks for Small Vision Models:
+
+
+MobileNet Series (V1, V2, V3)
+ResNet Variants
+EfficientNet (B0 to B7)
+ShuffleNet
+SqueezeNet
+GhostNet
+Tiny VITs
+DeiT-Tiny, T2T-ViT-14, MobileViT
+MnasNet
+RegNetY and RegNetX
+
+Tiny CNNs (Check in Google)
+
+Check ChatGPT
+
+
+Small Vision Models for Medical Image Segmentation (like small language models)
+
+MobileSAM
+YoloVxn-seg
+
+
+Lightweight CNN Models for MIS:
+Lightweight CNN models for medical image segmentation are designed to achieve high accuracy while being efficient in terms of computation, memory, and speed. This is especially important for deploying models on edge devices, real-time applications, or when dealing with limited resources.
+
+Here’s a rundown of some popular lightweight CNN architectures and strategies used for medical image segmentation:
+
+---
+
+### 1. **UNet Variants with Lightweight Backbones**
+
+* **UNet** is the go-to architecture for medical image segmentation, but the vanilla UNet can be heavy.
+* Using **lightweight encoders** (backbones) like:
+
+  * **MobileNetV2**
+  * **EfficientNet-lite**
+  * **ShuffleNet**
+  * **ResNet18 (light version)**
+
+These reduce parameters while keeping strong feature extraction.
+
+Example:
+**Mobile-UNet** — replaces the encoder with MobileNetV2, significantly reduces parameters while maintaining good accuracy.
+
+---
+
+### 2. **ENet**
+
+* Designed initially for real-time semantic segmentation in urban scenes.
+* Very lightweight and fast.
+* Has been adapted for medical image segmentation with some success.
+* Uses early downsampling and factorized convolutions to reduce computation.
+
+---
+
+### 3. **ERFNet**
+
+* Efficient Residual Factorized Network.
+* Designed for efficiency and accuracy.
+* Uses factorized convolutions and residual connections.
+* Can be adapted for 2D and 3D medical image segmentation tasks.
+
+---
+
+### 4. **Fast-SCNN**
+
+* Lightweight and fast segmentation network originally for mobile devices.
+* Employs a shallow branch for high-resolution detail and a deeper branch for context.
+* Has been adapted for some medical image segmentation tasks.
+
+---
+
+### 5. **Attention U-Net with Lightweight Encoders**
+
+* Attention mechanisms help focus on important regions, improving accuracy.
+* Combined with lightweight backbones, they provide a good balance.
+
+---
+
+### 6. **Depthwise Separable Convolutions**
+
+* Used in MobileNet and EfficientNet.
+* Replace standard convolutions with depthwise + pointwise convolutions to reduce computation drastically.
+* Can be incorporated into custom segmentation networks to reduce size.
+
+---
+
+### 7. **NAS-based Lightweight Models**
+
+* Neural Architecture Search (NAS) can find lightweight architectures optimized for segmentation tasks.
+* Example: NAS-Unet, which can be constrained to search for efficient networks.
+
+---
+
+### 8. **Knowledge Distillation**
+
+* Train a large, powerful model (teacher) and then distill its knowledge to a smaller, lightweight model (student).
+* Useful to maintain accuracy in small models.
+
+---
+
+### 9. **Specific Lightweight Models for Medical Imaging**
+
+* **Tiny U-Net** or **Micro U-Net:** smaller versions of UNet.
+* **ESPNet:** Efficient Spatial Pyramid Network — lightweight and effective.
+* **M2U-Net:** a variant designed for retinal vessel segmentation, combining efficiency and accuracy.
+
+---
+
+### Summary Table
+
+| Model / Approach               | Key Features                                 | Use Case                          |
+| ------------------------------ | -------------------------------------------- | --------------------------------- |
+| Mobile-UNet                    | MobileNet backbone in UNet                   | Lightweight, efficient UNet       |
+| ENet                           | Early downsampling, factorized convs         | Fast, lightweight segmentation    |
+| ERFNet                         | Residual + factorized convolutions           | Efficient segmentation            |
+| Fast-SCNN                      | Dual-branch lightweight network              | Real-time segmentation            |
+| Attention UNet + light encoder | Attention + efficient encoder                | Balanced accuracy & efficiency    |
+| Depthwise Separable Conv       | Reduced computation                          | Lightweight custom nets           |
+| NAS-Unet                       | Auto-designed lightweight networks           | Optimized architecture            |
+| Knowledge Distillation         | Model compression via distillation           | High accuracy in small models     |
+| ESPNet                         | Efficient spatial pyramid                    | Lightweight, multi-scale features |
+| M2U-Net                        | Small, efficient network for retinal vessels | Specialized lightweight model     |
+
+---
+
+If you want, I can help you with **code examples, pre-trained models, or papers** for any of these lightweight segmentation architectures! Do you have a specific medical image modality or segmentation task in mind?
+
+
+
+
+*** But resource-constrained models could include other approaches beyond just lightweight architectures (e.g., pruning, quantization, offloading computation).
+
+
+
+
+Model	Key Idea	Params (approx)	Use Case
+MobileNetV2	Depthwise separable conv + bottleneck	3.4M	Mobile, edge devices
+EfficientNet-B0	Compound scaling for efficiency	5.3M	Mobile, embedded
+ShuffleNetV2	Channel shuffle + group conv	1.4M	Ultra lightweight, mobile
+SqueezeNet	Fire modules (squeeze + expand)	~1.2M	Extreme parameter reduction
+GhostNet	Ghost modules for cheap feature maps	~5M	Efficient CNN
+MobileViT	Hybrid CNN + Transformer	~5M	Mobile-friendly vision transformer
+DeiT-Tiny	Tiny vision transformer	~5M	Transformer for vision
+ResNet18	Small residual network	~11M	Lightweight backbone
+MnasNet	NAS designed for latency	~3.9M	Mobile optimized
+RegNetX-200MF	Simple scalable design rules	~5M	Efficient CNN
