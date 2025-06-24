@@ -159,3 +159,12 @@ DeiT-Tiny	Tiny vision transformer	~5M	Transformer for vision
 ResNet18	Small residual network	~11M	Lightweight backbone
 MnasNet	NAS designed for latency	~3.9M	Mobile optimized
 RegNetX-200MF	Simple scalable design rules	~5M	Efficient CNN
+
+
+
+
+
+
+Use Metrics: 
+
+Comparison should be between Performance Metrics, Memory (RAM and model size), Compute (FLOPS, latency, power), Inference Time (real time needs)

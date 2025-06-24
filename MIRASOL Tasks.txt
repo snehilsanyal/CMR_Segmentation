@@ -8,3 +8,9 @@
 8. lightweight models vision hub
 9. https://github.com/open-mmlab/mmsegmentation
 10. https://docs.google.com/spreadsheets/d/1EG3JOpOv3CHSQZLgum2I7SS12nHKheUxQ8C3tvReFX4/edit?gid=0#gid=0
+11. yolo cardiac mri segmentation
+
+
+Mamba for MIS: https://github.com/ShumengLI/Mamba4MIS
+
+See tables from MambaUNet repository: https://github.com/ziyangwang007/Mamba-UNet?tab=readme-ov-file

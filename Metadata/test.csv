@@ -1,0 +1,1002 @@
+filenames,img_size_x,img_size_y,masks,gt_size_x,gt_size_y,train_id,seg_dict,is_empty
+patient101_frame01_slice1.png,232,256,patient101_frame01_gt_slice1.png,232,256,1,"{0: 58064, 170: 491, 255: 837}",0
+patient101_frame01_slice2.png,232,256,patient101_frame01_gt_slice2.png,232,256,1,"{0: 56801, 85: 874, 170: 567, 255: 1150}",0
+patient101_frame01_slice3.png,232,256,patient101_frame01_gt_slice3.png,232,256,1,"{0: 56701, 85: 917, 170: 578, 255: 1196}",0
+patient101_frame01_slice4.png,232,256,patient101_frame01_gt_slice4.png,232,256,1,"{0: 56891, 85: 856, 170: 597, 255: 1048}",0
+patient101_frame01_slice5.png,232,256,patient101_frame01_gt_slice5.png,232,256,1,"{0: 57044, 85: 738, 170: 574, 255: 1036}",0
+patient101_frame01_slice6.png,232,256,patient101_frame01_gt_slice6.png,232,256,1,"{0: 57297, 85: 534, 170: 588, 255: 973}",0
+patient101_frame01_slice7.png,232,256,patient101_frame01_gt_slice7.png,232,256,1,"{0: 57667, 85: 374, 170: 514, 255: 837}",0
+patient101_frame01_slice8.png,232,256,patient101_frame01_gt_slice8.png,232,256,1,"{0: 58189, 85: 224, 170: 383, 255: 596}",0
+patient101_frame01_slice9.png,232,256,patient101_frame01_gt_slice9.png,232,256,1,"{0: 58517, 85: 218, 170: 275, 255: 382}",0
+patient101_frame01_slice10.png,232,256,patient101_frame01_gt_slice10.png,232,256,1,"{0: 58917, 85: 87, 170: 173, 255: 215}",0
+patient101_frame14_slice2.png,232,256,patient101_frame14_gt_slice2.png,232,256,1,"{0: 58065, 170: 558, 255: 769}",0
+patient101_frame14_slice3.png,232,256,patient101_frame14_gt_slice3.png,232,256,1,"{0: 57301, 85: 613, 170: 614, 255: 864}",0
+patient101_frame14_slice4.png,232,256,patient101_frame14_gt_slice4.png,232,256,1,"{0: 57347, 85: 577, 170: 640, 255: 828}",0
+patient101_frame14_slice5.png,232,256,patient101_frame14_gt_slice5.png,232,256,1,"{0: 57385, 85: 533, 170: 615, 255: 859}",0
+patient101_frame14_slice6.png,232,256,patient101_frame14_gt_slice6.png,232,256,1,"{0: 57583, 85: 390, 170: 622, 255: 797}",0
+patient101_frame14_slice7.png,232,256,patient101_frame14_gt_slice7.png,232,256,1,"{0: 57842, 85: 265, 170: 588, 255: 697}",0
+patient101_frame14_slice8.png,232,256,patient101_frame14_gt_slice8.png,232,256,1,"{0: 58299, 85: 126, 170: 457, 255: 510}",0
+patient101_frame14_slice9.png,232,256,patient101_frame14_gt_slice9.png,232,256,1,"{0: 58597, 85: 62, 170: 406, 255: 327}",0
+patient101_frame14_slice10.png,232,256,patient101_frame14_gt_slice10.png,232,256,1,"{0: 58925, 85: 37, 170: 285, 255: 145}",0
+patient102_frame01_slice1.png,216,256,patient102_frame01_gt_slice1.png,216,256,1,"{0: 53322, 85: 1010, 170: 512, 255: 452}",0
+patient102_frame01_slice2.png,216,256,patient102_frame01_gt_slice2.png,216,256,1,"{0: 53095, 85: 1089, 170: 587, 255: 525}",0
+patient102_frame01_slice3.png,216,256,patient102_frame01_gt_slice3.png,216,256,1,"{0: 53302, 85: 840, 170: 574, 255: 580}",0
+patient102_frame01_slice4.png,216,256,patient102_frame01_gt_slice4.png,216,256,1,"{0: 53651, 85: 548, 170: 489, 255: 608}",0
+patient102_frame01_slice5.png,216,256,patient102_frame01_gt_slice5.png,216,256,1,"{0: 54095, 85: 327, 170: 337, 255: 537}",0
+patient102_frame01_slice6.png,216,256,patient102_frame01_gt_slice6.png,216,256,1,"{0: 54457, 85: 195, 170: 294, 255: 350}",0
+patient102_frame01_slice7.png,216,256,patient102_frame01_gt_slice7.png,216,256,1,"{0: 54801, 85: 91, 170: 202, 255: 202}",0
+patient102_frame13_slice2.png,216,256,patient102_frame13_gt_slice2.png,216,256,1,"{0: 53727, 85: 715, 170: 626, 255: 228}",0
+patient102_frame13_slice3.png,216,256,patient102_frame13_gt_slice3.png,216,256,1,"{0: 53683, 85: 618, 170: 830, 255: 165}",0
+patient102_frame13_slice4.png,216,256,patient102_frame13_gt_slice4.png,216,256,1,"{0: 53970, 85: 403, 170: 729, 255: 194}",0
+patient102_frame13_slice5.png,216,256,patient102_frame13_gt_slice5.png,216,256,1,"{0: 54310, 85: 197, 170: 606, 255: 183}",0
+patient102_frame13_slice6.png,216,256,patient102_frame13_gt_slice6.png,216,256,1,"{0: 54691, 85: 83, 170: 410, 255: 112}",0
+patient102_frame13_slice7.png,216,256,patient102_frame13_gt_slice7.png,216,256,1,"{0: 54949, 85: 24, 170: 257, 255: 66}",0
+patient103_frame01_slice1.png,216,256,patient103_frame01_gt_slice1.png,216,256,1,"{0: 52736, 85: 936, 170: 866, 255: 758}",0
+patient103_frame01_slice2.png,216,256,patient103_frame01_gt_slice2.png,216,256,1,"{0: 52613, 85: 880, 170: 973, 255: 830}",0
+patient103_frame01_slice3.png,216,256,patient103_frame01_gt_slice3.png,216,256,1,"{0: 52783, 85: 581, 170: 1044, 255: 888}",0
+patient103_frame01_slice4.png,216,256,patient103_frame01_gt_slice4.png,216,256,1,"{0: 52938, 85: 417, 170: 959, 255: 982}",0
+patient103_frame01_slice5.png,216,256,patient103_frame01_gt_slice5.png,216,256,1,"{0: 53021, 85: 334, 170: 821, 255: 1120}",0
+patient103_frame01_slice6.png,216,256,patient103_frame01_gt_slice6.png,216,256,1,"{0: 53234, 85: 253, 170: 791, 255: 1018}",0
+patient103_frame01_slice7.png,216,256,patient103_frame01_gt_slice7.png,216,256,1,"{0: 53534, 85: 186, 170: 710, 255: 866}",0
+patient103_frame01_slice8.png,216,256,patient103_frame01_gt_slice8.png,216,256,1,"{0: 54066, 85: 54, 170: 581, 255: 595}",0
+patient103_frame01_slice9.png,216,256,patient103_frame01_gt_slice9.png,216,256,1,"{0: 54683, 170: 372, 255: 241}",0
+patient103_frame11_slice1.png,216,256,patient103_frame11_gt_slice1.png,216,256,1,"{0: 54048, 170: 887, 255: 361}",0
+patient103_frame11_slice2.png,216,256,patient103_frame11_gt_slice2.png,216,256,1,"{0: 53340, 85: 488, 170: 1130, 255: 338}",0
+patient103_frame11_slice3.png,216,256,patient103_frame11_gt_slice3.png,216,256,1,"{0: 53448, 85: 259, 170: 1154, 255: 435}",0
+patient103_frame11_slice4.png,216,256,patient103_frame11_gt_slice4.png,216,256,1,"{0: 53515, 85: 137, 170: 1003, 255: 641}",0
+patient103_frame11_slice5.png,216,256,patient103_frame11_gt_slice5.png,216,256,1,"{0: 53362, 85: 212, 170: 843, 255: 879}",0
+patient103_frame11_slice6.png,216,256,patient103_frame11_gt_slice6.png,216,256,1,"{0: 53449, 85: 132, 170: 782, 255: 933}",0
+patient103_frame11_slice7.png,216,256,patient103_frame11_gt_slice7.png,216,256,1,"{0: 53685, 85: 133, 170: 620, 255: 858}",0
+patient103_frame11_slice8.png,216,256,patient103_frame11_gt_slice8.png,216,256,1,"{0: 54184, 85: 37, 170: 435, 255: 640}",0
+patient103_frame11_slice9.png,216,256,patient103_frame11_gt_slice9.png,216,256,1,"{0: 54696, 170: 288, 255: 312}",0
+patient104_frame01_slice1.png,208,256,patient104_frame01_gt_slice1.png,208,256,1,"{0: 49023, 85: 2211, 170: 1097, 255: 917}",0
+patient104_frame01_slice2.png,208,256,patient104_frame01_gt_slice2.png,208,256,1,"{0: 49443, 85: 1692, 170: 1300, 255: 813}",0
+patient104_frame01_slice3.png,208,256,patient104_frame01_gt_slice3.png,208,256,1,"{0: 49090, 85: 1692, 170: 1303, 255: 1163}",0
+patient104_frame01_slice4.png,208,256,patient104_frame01_gt_slice4.png,208,256,1,"{0: 50062, 85: 940, 170: 1093, 255: 1153}",0
+patient104_frame01_slice5.png,208,256,patient104_frame01_gt_slice5.png,208,256,1,"{0: 50716, 85: 442, 170: 987, 255: 1103}",0
+patient104_frame01_slice6.png,208,256,patient104_frame01_gt_slice6.png,208,256,1,"{0: 51146, 85: 214, 170: 928, 255: 960}",0
+patient104_frame01_slice7.png,208,256,patient104_frame01_gt_slice7.png,208,256,1,"{0: 51614, 85: 50, 170: 832, 255: 752}",0
+patient104_frame01_slice8.png,208,256,patient104_frame01_gt_slice8.png,208,256,1,"{0: 52154, 170: 607, 255: 487}",0
+patient104_frame01_slice9.png,208,256,patient104_frame01_gt_slice9.png,208,256,1,"{0: 52598, 170: 419, 255: 231}",0
+patient104_frame11_slice2.png,208,256,patient104_frame11_gt_slice2.png,208,256,1,"{0: 51835, 170: 1092, 255: 321}",0
+patient104_frame11_slice3.png,208,256,patient104_frame11_gt_slice3.png,208,256,1,"{0: 50141, 85: 1282, 170: 1581, 255: 244}",0
+patient104_frame11_slice4.png,208,256,patient104_frame11_gt_slice4.png,208,256,1,"{0: 50808, 85: 686, 170: 1566, 255: 188}",0
+patient104_frame11_slice5.png,208,256,patient104_frame11_gt_slice5.png,208,256,1,"{0: 51367, 85: 306, 170: 1431, 255: 144}",0
+patient104_frame11_slice6.png,208,256,patient104_frame11_gt_slice6.png,208,256,1,"{0: 51729, 85: 128, 170: 1243, 255: 148}",0
+patient104_frame11_slice7.png,208,256,patient104_frame11_gt_slice7.png,208,256,1,"{0: 51966, 85: 91, 170: 1110, 255: 81}",0
+patient104_frame11_slice8.png,208,256,patient104_frame11_gt_slice8.png,208,256,1,"{0: 52514, 170: 699, 255: 35}",0
+patient104_frame11_slice9.png,208,256,patient104_frame11_gt_slice9.png,208,256,1,"{0: 52826, 170: 404, 255: 18}",0
+patient105_frame01_slice2.png,232,256,patient105_frame01_gt_slice2.png,232,256,1,"{0: 56351, 85: 1388, 170: 1087, 255: 566}",0
+patient105_frame01_slice3.png,232,256,patient105_frame01_gt_slice3.png,232,256,1,"{0: 56432, 85: 1196, 170: 1177, 255: 587}",0
+patient105_frame01_slice4.png,232,256,patient105_frame01_gt_slice4.png,232,256,1,"{0: 56621, 85: 994, 170: 1002, 255: 775}",0
+patient105_frame01_slice5.png,232,256,patient105_frame01_gt_slice5.png,232,256,1,"{0: 56899, 85: 741, 170: 789, 255: 963}",0
+patient105_frame01_slice6.png,232,256,patient105_frame01_gt_slice6.png,232,256,1,"{0: 57299, 85: 481, 170: 671, 255: 941}",0
+patient105_frame01_slice7.png,232,256,patient105_frame01_gt_slice7.png,232,256,1,"{0: 57745, 85: 284, 170: 575, 255: 788}",0
+patient105_frame01_slice8.png,232,256,patient105_frame01_gt_slice8.png,232,256,1,"{0: 58131, 85: 156, 170: 464, 255: 641}",0
+patient105_frame01_slice9.png,232,256,patient105_frame01_gt_slice9.png,232,256,1,"{0: 58760, 170: 259, 255: 373}",0
+patient105_frame01_slice10.png,232,256,patient105_frame01_gt_slice10.png,232,256,1,"{0: 59164, 170: 140, 255: 88}",0
+patient105_frame10_slice3.png,232,256,patient105_frame10_gt_slice3.png,232,256,1,"{0: 57230, 85: 690, 170: 1247, 255: 225}",0
+patient105_frame10_slice4.png,232,256,patient105_frame10_gt_slice4.png,232,256,1,"{0: 57274, 85: 593, 170: 1373, 255: 152}",0
+patient105_frame10_slice5.png,232,256,patient105_frame10_gt_slice5.png,232,256,1,"{0: 57408, 85: 388, 170: 1415, 255: 181}",0
+patient105_frame10_slice6.png,232,256,patient105_frame10_gt_slice6.png,232,256,1,"{0: 57793, 85: 237, 170: 1062, 255: 300}",0
+patient105_frame10_slice7.png,232,256,patient105_frame10_gt_slice7.png,232,256,1,"{0: 58117, 85: 125, 170: 969, 255: 181}",0
+patient105_frame10_slice8.png,232,256,patient105_frame10_gt_slice8.png,232,256,1,"{0: 58454, 85: 53, 170: 789, 255: 96}",0
+patient105_frame10_slice9.png,232,256,patient105_frame10_gt_slice9.png,232,256,1,"{0: 58978, 170: 374, 255: 40}",0
+patient106_frame01_slice1.png,216,256,patient106_frame01_gt_slice1.png,216,256,1,"{0: 50555, 85: 2293, 170: 654, 255: 1794}",0
+patient106_frame01_slice2.png,216,256,patient106_frame01_gt_slice2.png,216,256,1,"{0: 50557, 85: 2146, 170: 714, 255: 1879}",0
+patient106_frame01_slice3.png,216,256,patient106_frame01_gt_slice3.png,216,256,1,"{0: 50758, 85: 1936, 170: 745, 255: 1857}",0
+patient106_frame01_slice4.png,216,256,patient106_frame01_gt_slice4.png,216,256,1,"{0: 51232, 85: 1723, 170: 648, 255: 1693}",0
+patient106_frame01_slice5.png,216,256,patient106_frame01_gt_slice5.png,216,256,1,"{0: 51732, 85: 1417, 170: 602, 255: 1545}",0
+patient106_frame01_slice6.png,216,256,patient106_frame01_gt_slice6.png,216,256,1,"{0: 52212, 85: 1189, 170: 590, 255: 1305}",0
+patient106_frame01_slice7.png,216,256,patient106_frame01_gt_slice7.png,216,256,1,"{0: 53074, 85: 902, 170: 490, 255: 830}",0
+patient106_frame01_slice8.png,216,256,patient106_frame01_gt_slice8.png,216,256,1,"{0: 53688, 85: 651, 170: 417, 255: 540}",0
+patient106_frame01_slice9.png,216,256,patient106_frame01_gt_slice9.png,216,256,1,"{0: 54515, 85: 332, 170: 248, 255: 201}",0
+patient106_frame13_slice1.png,216,256,patient106_frame13_gt_slice1.png,216,256,1,"{0: 51407, 85: 1685, 170: 707, 255: 1497}",0
+patient106_frame13_slice2.png,216,256,patient106_frame13_gt_slice2.png,216,256,1,"{0: 51198, 85: 1734, 170: 673, 255: 1691}",0
+patient106_frame13_slice3.png,216,256,patient106_frame13_gt_slice3.png,216,256,1,"{0: 51214, 85: 1670, 170: 682, 255: 1730}",0
+patient106_frame13_slice4.png,216,256,patient106_frame13_gt_slice4.png,216,256,1,"{0: 51534, 85: 1563, 170: 622, 255: 1577}",0
+patient106_frame13_slice5.png,216,256,patient106_frame13_gt_slice5.png,216,256,1,"{0: 51852, 85: 1376, 170: 613, 255: 1455}",0
+patient106_frame13_slice6.png,216,256,patient106_frame13_gt_slice6.png,216,256,1,"{0: 52249, 85: 1177, 170: 630, 255: 1240}",0
+patient106_frame13_slice7.png,216,256,patient106_frame13_gt_slice7.png,216,256,1,"{0: 53072, 85: 869, 170: 541, 255: 814}",0
+patient106_frame13_slice8.png,216,256,patient106_frame13_gt_slice8.png,216,256,1,"{0: 53640, 85: 687, 170: 409, 255: 560}",0
+patient106_frame13_slice9.png,216,256,patient106_frame13_gt_slice9.png,216,256,1,"{0: 54487, 85: 365, 170: 245, 255: 199}",0
+patient107_frame01_slice1.png,256,216,patient107_frame01_gt_slice1.png,256,216,1,"{0: 52478, 85: 1447, 170: 476, 255: 895}",0
+patient107_frame01_slice2.png,256,216,patient107_frame01_gt_slice2.png,256,216,1,"{0: 51978, 85: 1568, 170: 634, 255: 1116}",0
+patient107_frame01_slice3.png,256,216,patient107_frame01_gt_slice3.png,256,216,1,"{0: 52010, 85: 1503, 170: 598, 255: 1185}",0
+patient107_frame01_slice4.png,256,216,patient107_frame01_gt_slice4.png,256,216,1,"{0: 52758, 85: 890, 170: 485, 255: 1163}",0
+patient107_frame01_slice5.png,256,216,patient107_frame01_gt_slice5.png,256,216,1,"{0: 53110, 85: 702, 170: 456, 255: 1028}",0
+patient107_frame01_slice6.png,256,216,patient107_frame01_gt_slice6.png,256,216,1,"{0: 53592, 85: 534, 170: 397, 255: 773}",0
+patient107_frame01_slice7.png,256,216,patient107_frame01_gt_slice7.png,256,216,1,"{0: 54070, 85: 390, 170: 299, 255: 537}",0
+patient107_frame01_slice8.png,256,216,patient107_frame01_gt_slice8.png,256,216,1,"{0: 54638, 85: 171, 170: 239, 255: 248}",0
+patient107_frame01_slice9.png,256,216,patient107_frame01_gt_slice9.png,256,216,1,"{0: 55195, 170: 95, 255: 6}",0
+patient107_frame10_slice2.png,256,216,patient107_frame10_gt_slice2.png,256,216,1,"{0: 53257, 85: 1054, 170: 407, 255: 578}",0
+patient107_frame10_slice3.png,256,216,patient107_frame10_gt_slice3.png,256,216,1,"{0: 52902, 85: 1174, 170: 721, 255: 499}",0
+patient107_frame10_slice4.png,256,216,patient107_frame10_gt_slice4.png,256,216,1,"{0: 53082, 85: 916, 170: 750, 255: 548}",0
+patient107_frame10_slice5.png,256,216,patient107_frame10_gt_slice5.png,256,216,1,"{0: 53527, 85: 606, 170: 647, 255: 516}",0
+patient107_frame10_slice6.png,256,216,patient107_frame10_gt_slice6.png,256,216,1,"{0: 54029, 85: 358, 170: 530, 255: 379}",0
+patient107_frame10_slice7.png,256,216,patient107_frame10_gt_slice7.png,256,216,1,"{0: 54499, 85: 182, 170: 471, 255: 144}",0
+patient107_frame10_slice8.png,256,216,patient107_frame10_gt_slice8.png,256,216,1,"{0: 54998, 85: 26, 170: 235, 255: 37}",0
+patient108_frame01_slice1.png,240,256,patient108_frame01_gt_slice1.png,240,256,1,"{0: 58156, 85: 1388, 170: 872, 255: 1024}",0
+patient108_frame01_slice2.png,240,256,patient108_frame01_gt_slice2.png,240,256,1,"{0: 58389, 85: 1292, 170: 742, 255: 1017}",0
+patient108_frame01_slice3.png,240,256,patient108_frame01_gt_slice3.png,240,256,1,"{0: 58400, 85: 1255, 170: 912, 255: 873}",0
+patient108_frame01_slice4.png,240,256,patient108_frame01_gt_slice4.png,240,256,1,"{0: 58308, 85: 1276, 170: 1058, 255: 798}",0
+patient108_frame01_slice5.png,240,256,patient108_frame01_gt_slice5.png,240,256,1,"{0: 58499, 85: 1190, 170: 938, 255: 813}",0
+patient108_frame01_slice6.png,240,256,patient108_frame01_gt_slice6.png,240,256,1,"{0: 59134, 85: 784, 170: 804, 255: 718}",0
+patient108_frame01_slice7.png,240,256,patient108_frame01_gt_slice7.png,240,256,1,"{0: 59699, 85: 445, 170: 665, 255: 631}",0
+patient108_frame01_slice8.png,240,256,patient108_frame01_gt_slice8.png,240,256,1,"{0: 60179, 85: 193, 170: 535, 255: 533}",0
+patient108_frame01_slice9.png,240,256,patient108_frame01_gt_slice9.png,240,256,1,"{0: 60699, 170: 376, 255: 365}",0
+patient108_frame01_slice10.png,240,256,patient108_frame01_gt_slice10.png,240,256,1,"{0: 61078, 170: 240, 255: 122}",0
+patient108_frame09_slice3.png,240,256,patient108_frame09_gt_slice3.png,240,256,1,"{0: 59141, 85: 834, 170: 1148, 255: 317}",0
+patient108_frame09_slice4.png,240,256,patient108_frame09_gt_slice4.png,240,256,1,"{0: 59095, 85: 731, 170: 1371, 255: 243}",0
+patient108_frame09_slice5.png,240,256,patient108_frame09_gt_slice5.png,240,256,1,"{0: 59356, 85: 615, 170: 1239, 255: 230}",0
+patient108_frame09_slice6.png,240,256,patient108_frame09_gt_slice6.png,240,256,1,"{0: 59987, 85: 316, 170: 1000, 255: 137}",0
+patient108_frame09_slice7.png,240,256,patient108_frame09_gt_slice7.png,240,256,1,"{0: 60350, 85: 151, 170: 793, 255: 146}",0
+patient108_frame09_slice8.png,240,256,patient108_frame09_gt_slice8.png,240,256,1,"{0: 60824, 85: 36, 170: 545, 255: 35}",0
+patient108_frame09_slice9.png,240,256,patient108_frame09_gt_slice9.png,240,256,1,"{0: 61156, 255: 284}",0
+patient109_frame01_slice1.png,224,180,patient109_frame01_gt_slice1.png,224,180,1,"{0: 37210, 85: 1741, 170: 519, 255: 850}",0
+patient109_frame01_slice2.png,224,180,patient109_frame01_gt_slice2.png,224,180,1,"{0: 36958, 85: 1766, 170: 575, 255: 1021}",0
+patient109_frame01_slice3.png,224,180,patient109_frame01_gt_slice3.png,224,180,1,"{0: 37020, 85: 1587, 170: 599, 255: 1114}",0
+patient109_frame01_slice4.png,224,180,patient109_frame01_gt_slice4.png,224,180,1,"{0: 37334, 85: 1325, 170: 618, 255: 1043}",0
+patient109_frame01_slice5.png,224,180,patient109_frame01_gt_slice5.png,224,180,1,"{0: 37752, 85: 1119, 170: 547, 255: 902}",0
+patient109_frame01_slice6.png,224,180,patient109_frame01_gt_slice6.png,224,180,1,"{0: 38242, 85: 795, 170: 479, 255: 804}",0
+patient109_frame01_slice7.png,224,180,patient109_frame01_gt_slice7.png,224,180,1,"{0: 39144, 85: 359, 170: 338, 255: 479}",0
+patient109_frame01_slice8.png,224,180,patient109_frame01_gt_slice8.png,224,180,1,"{0: 39441, 85: 302, 170: 285, 255: 292}",0
+patient109_frame10_slice2.png,224,180,patient109_frame10_gt_slice2.png,224,180,1,"{0: 37831, 85: 1346, 170: 636, 255: 507}",0
+patient109_frame10_slice3.png,224,180,patient109_frame10_gt_slice3.png,224,180,1,"{0: 37790, 85: 1311, 170: 691, 255: 528}",0
+patient109_frame10_slice4.png,224,180,patient109_frame10_gt_slice4.png,224,180,1,"{0: 37883, 85: 1168, 170: 666, 255: 603}",0
+patient109_frame10_slice5.png,224,180,patient109_frame10_gt_slice5.png,224,180,1,"{0: 38177, 85: 916, 170: 674, 255: 553}",0
+patient109_frame10_slice6.png,224,180,patient109_frame10_gt_slice6.png,224,180,1,"{0: 38506, 85: 682, 170: 611, 255: 521}",0
+patient109_frame10_slice7.png,224,180,patient109_frame10_gt_slice7.png,224,180,1,"{0: 39316, 85: 299, 170: 450, 255: 255}",0
+patient109_frame10_slice8.png,224,180,patient109_frame10_gt_slice8.png,224,180,1,"{0: 39656, 85: 237, 170: 296, 255: 131}",0
+patient110_frame01_slice1.png,216,256,patient110_frame01_gt_slice1.png,216,256,1,"{0: 52509, 85: 1518, 170: 611, 255: 658}",0
+patient110_frame01_slice2.png,216,256,patient110_frame01_gt_slice2.png,216,256,1,"{0: 52501, 85: 1404, 170: 770, 255: 621}",0
+patient110_frame01_slice3.png,216,256,patient110_frame01_gt_slice3.png,216,256,1,"{0: 52755, 85: 1164, 170: 652, 255: 725}",0
+patient110_frame01_slice4.png,216,256,patient110_frame01_gt_slice4.png,216,256,1,"{0: 52891, 85: 1099, 170: 586, 255: 720}",0
+patient110_frame01_slice5.png,216,256,patient110_frame01_gt_slice5.png,216,256,1,"{0: 53275, 85: 768, 170: 510, 255: 743}",0
+patient110_frame01_slice6.png,216,256,patient110_frame01_gt_slice6.png,216,256,1,"{0: 53593, 85: 556, 170: 443, 255: 704}",0
+patient110_frame01_slice7.png,216,256,patient110_frame01_gt_slice7.png,216,256,1,"{0: 54070, 85: 296, 170: 445, 255: 485}",0
+patient110_frame01_slice8.png,216,256,patient110_frame01_gt_slice8.png,216,256,1,"{0: 54272, 85: 257, 170: 378, 255: 389}",0
+patient110_frame01_slice9.png,216,256,patient110_frame01_gt_slice9.png,216,256,1,"{0: 54931, 170: 269, 255: 96}",0
+patient110_frame11_slice2.png,216,256,patient110_frame11_gt_slice2.png,216,256,1,"{0: 53114, 85: 1079, 170: 751, 255: 352}",0
+patient110_frame11_slice3.png,216,256,patient110_frame11_gt_slice3.png,216,256,1,"{0: 53324, 85: 783, 170: 889, 255: 300}",0
+patient110_frame11_slice4.png,216,256,patient110_frame11_gt_slice4.png,216,256,1,"{0: 53413, 85: 779, 170: 797, 255: 307}",0
+patient110_frame11_slice5.png,216,256,patient110_frame11_gt_slice5.png,216,256,1,"{0: 53734, 85: 520, 170: 772, 255: 270}",0
+patient110_frame11_slice6.png,216,256,patient110_frame11_gt_slice6.png,216,256,1,"{0: 53939, 85: 391, 170: 696, 255: 270}",0
+patient110_frame11_slice7.png,216,256,patient110_frame11_gt_slice7.png,216,256,1,"{0: 54293, 85: 187, 170: 698, 255: 118}",0
+patient110_frame11_slice8.png,216,256,patient110_frame11_gt_slice8.png,216,256,1,"{0: 54595, 85: 130, 170: 478, 255: 93}",0
+patient110_frame11_slice9.png,216,256,patient110_frame11_gt_slice9.png,216,256,1,"{0: 55130, 255: 166}",0
+patient111_frame01_slice1.png,214,256,patient111_frame01_gt_slice1.png,214,256,1,"{0: 52814, 170: 895, 255: 1075}",0
+patient111_frame01_slice2.png,214,256,patient111_frame01_gt_slice2.png,214,256,1,"{0: 51475, 85: 1233, 170: 965, 255: 1111}",0
+patient111_frame01_slice3.png,214,256,patient111_frame01_gt_slice3.png,214,256,1,"{0: 51689, 85: 1070, 170: 1022, 255: 1003}",0
+patient111_frame01_slice4.png,214,256,patient111_frame01_gt_slice4.png,214,256,1,"{0: 52249, 85: 825, 170: 944, 255: 766}",0
+patient111_frame01_slice5.png,214,256,patient111_frame01_gt_slice5.png,214,256,1,"{0: 52525, 85: 674, 170: 1114, 255: 471}",0
+patient111_frame01_slice6.png,214,256,patient111_frame01_gt_slice6.png,214,256,1,"{0: 53304, 85: 191, 170: 1059, 255: 230}",0
+patient111_frame07_slice1.png,214,256,patient111_frame07_gt_slice1.png,214,256,1,"{0: 53341, 170: 966, 255: 477}",0
+patient111_frame07_slice2.png,214,256,patient111_frame07_gt_slice2.png,214,256,1,"{0: 52291, 85: 763, 170: 1364, 255: 366}",0
+patient111_frame07_slice3.png,214,256,patient111_frame07_gt_slice3.png,214,256,1,"{0: 52646, 85: 511, 170: 1336, 255: 291}",0
+patient111_frame07_slice4.png,214,256,patient111_frame07_gt_slice4.png,214,256,1,"{0: 53062, 85: 211, 170: 1385, 255: 126}",0
+patient111_frame07_slice5.png,214,256,patient111_frame07_gt_slice5.png,214,256,1,"{0: 53320, 85: 82, 170: 1293, 255: 89}",0
+patient111_frame07_slice6.png,214,256,patient111_frame07_gt_slice6.png,214,256,1,"{0: 53728, 170: 1017, 255: 39}",0
+patient112_frame01_slice1.png,248,256,patient112_frame01_gt_slice1.png,248,256,1,"{0: 59042, 85: 2275, 170: 787, 255: 1384}",0
+patient112_frame01_slice2.png,248,256,patient112_frame01_gt_slice2.png,248,256,1,"{0: 58724, 85: 2350, 170: 1092, 255: 1322}",0
+patient112_frame01_slice3.png,248,256,patient112_frame01_gt_slice3.png,248,256,1,"{0: 59164, 85: 1949, 170: 1040, 255: 1335}",0
+patient112_frame01_slice4.png,248,256,patient112_frame01_gt_slice4.png,248,256,1,"{0: 59552, 85: 1494, 170: 1019, 255: 1423}",0
+patient112_frame01_slice5.png,248,256,patient112_frame01_gt_slice5.png,248,256,1,"{0: 60186, 85: 961, 170: 845, 255: 1496}",0
+patient112_frame01_slice6.png,248,256,patient112_frame01_gt_slice6.png,248,256,1,"{0: 60598, 85: 586, 170: 828, 255: 1476}",0
+patient112_frame01_slice7.png,248,256,patient112_frame01_gt_slice7.png,248,256,1,"{0: 61193, 85: 300, 170: 671, 255: 1324}",0
+patient112_frame01_slice8.png,248,256,patient112_frame01_gt_slice8.png,248,256,1,"{0: 61703, 85: 154, 170: 606, 255: 1025}",0
+patient112_frame01_slice9.png,248,256,patient112_frame01_gt_slice9.png,248,256,1,"{0: 62114, 170: 697, 255: 677}",0
+patient112_frame01_slice10.png,248,256,patient112_frame01_gt_slice10.png,248,256,1,"{0: 62739, 170: 315, 255: 434}",0
+patient112_frame12_slice2.png,248,256,patient112_frame12_gt_slice2.png,248,256,1,"{0: 61711, 170: 1009, 255: 768}",0
+patient112_frame12_slice3.png,248,256,patient112_frame12_gt_slice3.png,248,256,1,"{0: 60186, 85: 1343, 170: 1356, 255: 603}",0
+patient112_frame12_slice4.png,248,256,patient112_frame12_gt_slice4.png,248,256,1,"{0: 60610, 85: 856, 170: 1302, 255: 720}",0
+patient112_frame12_slice5.png,248,256,patient112_frame12_gt_slice5.png,248,256,1,"{0: 60885, 85: 652, 170: 1047, 255: 904}",0
+patient112_frame12_slice6.png,248,256,patient112_frame12_gt_slice6.png,248,256,1,"{0: 61236, 85: 398, 170: 942, 255: 912}",0
+patient112_frame12_slice7.png,248,256,patient112_frame12_gt_slice7.png,248,256,1,"{0: 61657, 85: 182, 170: 686, 255: 963}",0
+patient112_frame12_slice8.png,248,256,patient112_frame12_gt_slice8.png,248,256,1,"{0: 61957, 85: 89, 170: 629, 255: 813}",0
+patient112_frame12_slice9.png,248,256,patient112_frame12_gt_slice9.png,248,256,1,"{0: 62359, 170: 600, 255: 529}",0
+patient112_frame12_slice10.png,248,256,patient112_frame12_gt_slice10.png,248,256,1,"{0: 62828, 170: 352, 255: 308}",0
+patient113_frame01_slice1.png,208,174,patient113_frame01_gt_slice1.png,208,174,1,"{0: 33010, 85: 1070, 170: 742, 255: 1370}",0
+patient113_frame01_slice2.png,208,174,patient113_frame01_gt_slice2.png,208,174,1,"{0: 32830, 85: 1146, 170: 739, 255: 1477}",0
+patient113_frame01_slice3.png,208,174,patient113_frame01_gt_slice3.png,208,174,1,"{0: 32728, 85: 1122, 170: 840, 255: 1502}",0
+patient113_frame01_slice4.png,208,174,patient113_frame01_gt_slice4.png,208,174,1,"{0: 33062, 85: 926, 170: 759, 255: 1445}",0
+patient113_frame01_slice5.png,208,174,patient113_frame01_gt_slice5.png,208,174,1,"{0: 33441, 85: 740, 170: 639, 255: 1372}",0
+patient113_frame01_slice6.png,208,174,patient113_frame01_gt_slice6.png,208,174,1,"{0: 33973, 85: 466, 170: 587, 255: 1166}",0
+patient113_frame01_slice7.png,208,174,patient113_frame01_gt_slice7.png,208,174,1,"{0: 34379, 85: 355, 170: 483, 255: 975}",0
+patient113_frame01_slice8.png,208,174,patient113_frame01_gt_slice8.png,208,174,1,"{0: 34537, 85: 313, 170: 449, 255: 893}",0
+patient113_frame01_slice9.png,208,174,patient113_frame01_gt_slice9.png,208,174,1,"{0: 35147, 85: 166, 170: 298, 255: 581}",0
+patient113_frame01_slice10.png,208,174,patient113_frame01_gt_slice10.png,208,174,1,"{0: 35904, 170: 163, 255: 125}",0
+patient113_frame08_slice1.png,208,174,patient113_frame08_gt_slice1.png,208,174,1,"{0: 34544, 170: 728, 255: 920}",0
+patient113_frame08_slice2.png,208,174,patient113_frame08_gt_slice2.png,208,174,1,"{0: 33542, 85: 784, 170: 826, 255: 1040}",0
+patient113_frame08_slice3.png,208,174,patient113_frame08_gt_slice3.png,208,174,1,"{0: 33355, 85: 823, 170: 843, 255: 1171}",0
+patient113_frame08_slice4.png,208,174,patient113_frame08_gt_slice4.png,208,174,1,"{0: 33426, 85: 731, 170: 755, 255: 1280}",0
+patient113_frame08_slice5.png,208,174,patient113_frame08_gt_slice5.png,208,174,1,"{0: 33720, 85: 553, 170: 645, 255: 1274}",0
+patient113_frame08_slice6.png,208,174,patient113_frame08_gt_slice6.png,208,174,1,"{0: 34157, 85: 339, 170: 589, 255: 1107}",0
+patient113_frame08_slice7.png,208,174,patient113_frame08_gt_slice7.png,208,174,1,"{0: 34473, 85: 200, 170: 576, 255: 943}",0
+patient113_frame08_slice8.png,208,174,patient113_frame08_gt_slice8.png,208,174,1,"{0: 34564, 85: 179, 170: 602, 255: 847}",0
+patient113_frame08_slice9.png,208,174,patient113_frame08_gt_slice9.png,208,174,1,"{0: 35200, 85: 96, 170: 427, 255: 469}",0
+patient113_frame08_slice10.png,208,174,patient113_frame08_gt_slice10.png,208,174,1,"{0: 35904, 85: 22, 170: 202, 255: 64}",0
+patient114_frame01_slice1.png,216,256,patient114_frame01_gt_slice1.png,216,256,1,"{0: 52492, 170: 1331, 255: 1473}",0
+patient114_frame01_slice2.png,216,256,patient114_frame01_gt_slice2.png,216,256,1,"{0: 49840, 85: 2162, 170: 2036, 255: 1258}",0
+patient114_frame01_slice3.png,216,256,patient114_frame01_gt_slice3.png,216,256,1,"{0: 50225, 85: 1490, 170: 2591, 255: 990}",0
+patient114_frame01_slice4.png,216,256,patient114_frame01_gt_slice4.png,216,256,1,"{0: 50504, 85: 1076, 170: 2872, 255: 844}",0
+patient114_frame01_slice5.png,216,256,patient114_frame01_gt_slice5.png,216,256,1,"{0: 50948, 85: 837, 170: 2689, 255: 822}",0
+patient114_frame01_slice6.png,216,256,patient114_frame01_gt_slice6.png,216,256,1,"{0: 51498, 85: 628, 170: 2210, 255: 960}",0
+patient114_frame01_slice7.png,216,256,patient114_frame01_gt_slice7.png,216,256,1,"{0: 52226, 85: 301, 170: 1541, 255: 1228}",0
+patient114_frame01_slice8.png,216,256,patient114_frame01_gt_slice8.png,216,256,1,"{0: 52774, 85: 47, 170: 1114, 255: 1361}",0
+patient114_frame01_slice9.png,216,256,patient114_frame01_gt_slice9.png,216,256,1,"{0: 53332, 170: 804, 255: 1160}",0
+patient114_frame01_slice10.png,216,256,patient114_frame01_gt_slice10.png,216,256,1,"{0: 53937, 170: 621, 255: 738}",0
+patient114_frame01_slice11.png,216,256,patient114_frame01_gt_slice11.png,216,256,1,"{0: 54446, 170: 570, 255: 280}",0
+patient114_frame11_slice2.png,216,256,patient114_frame11_gt_slice2.png,216,256,1,"{0: 52613, 170: 2012, 255: 671}",0
+patient114_frame11_slice3.png,216,256,patient114_frame11_gt_slice3.png,216,256,1,"{0: 50894, 85: 1402, 170: 2653, 255: 347}",0
+patient114_frame11_slice4.png,216,256,patient114_frame11_gt_slice4.png,216,256,1,"{0: 51258, 85: 892, 170: 2801, 255: 345}",0
+patient114_frame11_slice5.png,216,256,patient114_frame11_gt_slice5.png,216,256,1,"{0: 51592, 85: 574, 170: 2810, 255: 320}",0
+patient114_frame11_slice6.png,216,256,patient114_frame11_gt_slice6.png,216,256,1,"{0: 51908, 85: 443, 170: 2661, 255: 284}",0
+patient114_frame11_slice7.png,216,256,patient114_frame11_gt_slice7.png,216,256,1,"{0: 52484, 85: 175, 170: 2291, 255: 346}",0
+patient114_frame11_slice8.png,216,256,patient114_frame11_gt_slice8.png,216,256,1,"{0: 53114, 85: 80, 170: 1674, 255: 428}",0
+patient114_frame11_slice9.png,216,256,patient114_frame11_gt_slice9.png,216,256,1,"{0: 53663, 85: 59, 170: 1185, 255: 389}",0
+patient114_frame11_slice10.png,216,256,patient114_frame11_gt_slice10.png,216,256,1,"{0: 54145, 170: 953, 255: 198}",0
+patient114_frame11_slice11.png,216,256,patient114_frame11_gt_slice11.png,216,256,1,"{0: 54632, 170: 623, 255: 41}",0
+patient115_frame01_slice1.png,216,256,patient115_frame01_gt_slice1.png,216,256,1,"{0: 51195, 85: 1957, 170: 955, 255: 1189}",0
+patient115_frame01_slice2.png,216,256,patient115_frame01_gt_slice2.png,216,256,1,"{0: 51036, 85: 1801, 170: 1116, 255: 1343}",0
+patient115_frame01_slice3.png,216,256,patient115_frame01_gt_slice3.png,216,256,1,"{0: 51318, 85: 1493, 170: 1028, 255: 1457}",0
+patient115_frame01_slice4.png,216,256,patient115_frame01_gt_slice4.png,216,256,1,"{0: 51704, 85: 1196, 170: 927, 255: 1469}",0
+patient115_frame01_slice5.png,216,256,patient115_frame01_gt_slice5.png,216,256,1,"{0: 52281, 85: 833, 170: 810, 255: 1372}",0
+patient115_frame01_slice6.png,216,256,patient115_frame01_gt_slice6.png,216,256,1,"{0: 52797, 85: 508, 170: 774, 255: 1217}",0
+patient115_frame01_slice7.png,216,256,patient115_frame01_gt_slice7.png,216,256,1,"{0: 53495, 85: 246, 170: 561, 255: 994}",0
+patient115_frame01_slice8.png,216,256,patient115_frame01_gt_slice8.png,216,256,1,"{0: 54125, 85: 47, 170: 470, 255: 654}",0
+patient115_frame01_slice9.png,216,256,patient115_frame01_gt_slice9.png,216,256,1,"{0: 54806, 170: 266, 255: 224}",0
+patient115_frame13_slice1.png,216,256,patient115_frame13_gt_slice1.png,216,256,1,"{0: 53832, 170: 762, 255: 702}",0
+patient115_frame13_slice2.png,216,256,patient115_frame13_gt_slice2.png,216,256,1,"{0: 51908, 85: 1514, 170: 1227, 255: 647}",0
+patient115_frame13_slice3.png,216,256,patient115_frame13_gt_slice3.png,216,256,1,"{0: 52102, 85: 1183, 170: 1310, 255: 701}",0
+patient115_frame13_slice4.png,216,256,patient115_frame13_gt_slice4.png,216,256,1,"{0: 52508, 85: 847, 170: 1232, 255: 709}",0
+patient115_frame13_slice5.png,216,256,patient115_frame13_gt_slice5.png,216,256,1,"{0: 52940, 85: 555, 170: 874, 255: 927}",0
+patient115_frame13_slice6.png,216,256,patient115_frame13_gt_slice6.png,216,256,1,"{0: 53263, 85: 357, 170: 801, 255: 875}",0
+patient115_frame13_slice7.png,216,256,patient115_frame13_gt_slice7.png,216,256,1,"{0: 53698, 85: 263, 170: 576, 255: 759}",0
+patient115_frame13_slice8.png,216,256,patient115_frame13_gt_slice8.png,216,256,1,"{0: 54154, 85: 100, 170: 420, 255: 622}",0
+patient115_frame13_slice9.png,216,256,patient115_frame13_gt_slice9.png,216,256,1,"{0: 54587, 170: 377, 255: 332}",0
+patient115_frame13_slice10.png,216,256,patient115_frame13_gt_slice10.png,216,256,1,"{0: 55137, 170: 138, 255: 21}",0
+patient116_frame01_slice1.png,216,256,patient116_frame01_gt_slice1.png,216,256,1,"{0: 52724, 85: 1368, 170: 583, 255: 621}",0
+patient116_frame01_slice2.png,216,256,patient116_frame01_gt_slice2.png,216,256,1,"{0: 52605, 85: 1115, 170: 710, 255: 866}",0
+patient116_frame01_slice3.png,216,256,patient116_frame01_gt_slice3.png,216,256,1,"{0: 52658, 85: 842, 170: 857, 255: 939}",0
+patient116_frame01_slice4.png,216,256,patient116_frame01_gt_slice4.png,216,256,1,"{0: 52827, 85: 713, 170: 950, 255: 806}",0
+patient116_frame01_slice5.png,216,256,patient116_frame01_gt_slice5.png,216,256,1,"{0: 53228, 85: 468, 170: 826, 255: 774}",0
+patient116_frame01_slice6.png,216,256,patient116_frame01_gt_slice6.png,216,256,1,"{0: 53593, 85: 346, 170: 628, 255: 729}",0
+patient116_frame01_slice7.png,216,256,patient116_frame01_gt_slice7.png,216,256,1,"{0: 54001, 85: 225, 170: 446, 255: 624}",0
+patient116_frame01_slice8.png,216,256,patient116_frame01_gt_slice8.png,216,256,1,"{0: 54397, 85: 151, 170: 313, 255: 435}",0
+patient116_frame01_slice9.png,216,256,patient116_frame01_gt_slice9.png,216,256,1,"{0: 54795, 85: 127, 170: 206, 255: 168}",0
+patient116_frame09_slice2.png,216,256,patient116_frame09_gt_slice2.png,216,256,1,"{0: 54435, 170: 452, 255: 409}",0
+patient116_frame09_slice3.png,216,256,patient116_frame09_gt_slice3.png,216,256,1,"{0: 53411, 85: 599, 170: 928, 255: 358}",0
+patient116_frame09_slice4.png,216,256,patient116_frame09_gt_slice4.png,216,256,1,"{0: 53407, 85: 432, 170: 1147, 255: 310}",0
+patient116_frame09_slice5.png,216,256,patient116_frame09_gt_slice5.png,216,256,1,"{0: 53615, 85: 248, 170: 1144, 255: 289}",0
+patient116_frame09_slice6.png,216,256,patient116_frame09_gt_slice6.png,216,256,1,"{0: 53873, 85: 92, 170: 1008, 255: 323}",0
+patient116_frame09_slice7.png,216,256,patient116_frame09_gt_slice7.png,216,256,1,"{0: 54215, 85: 81, 170: 737, 255: 263}",0
+patient116_frame09_slice8.png,216,256,patient116_frame09_gt_slice8.png,216,256,1,"{0: 54546, 85: 50, 170: 524, 255: 176}",0
+patient116_frame09_slice9.png,216,256,patient116_frame09_gt_slice9.png,216,256,1,"{0: 54895, 85: 42, 170: 316, 255: 43}",0
+patient117_frame01_slice1.png,256,216,patient117_frame01_gt_slice1.png,256,216,1,"{0: 50499, 85: 1530, 170: 949, 255: 2318}",0
+patient117_frame01_slice2.png,256,216,patient117_frame01_gt_slice2.png,256,216,1,"{0: 49083, 85: 2360, 170: 1182, 255: 2671}",0
+patient117_frame01_slice3.png,256,216,patient117_frame01_gt_slice3.png,256,216,1,"{0: 49123, 85: 2142, 170: 1238, 255: 2793}",0
+patient117_frame01_slice4.png,256,216,patient117_frame01_gt_slice4.png,256,216,1,"{0: 49446, 85: 1880, 170: 1189, 255: 2781}",0
+patient117_frame01_slice5.png,256,216,patient117_frame01_gt_slice5.png,256,216,1,"{0: 49979, 85: 1441, 170: 1207, 255: 2669}",0
+patient117_frame01_slice6.png,256,216,patient117_frame01_gt_slice6.png,256,216,1,"{0: 50665, 85: 1114, 170: 1065, 255: 2452}",0
+patient117_frame01_slice7.png,256,216,patient117_frame01_gt_slice7.png,256,216,1,"{0: 51404, 85: 843, 170: 940, 255: 2109}",0
+patient117_frame01_slice8.png,256,216,patient117_frame01_gt_slice8.png,256,216,1,"{0: 52214, 85: 570, 170: 832, 255: 1680}",0
+patient117_frame01_slice9.png,256,216,patient117_frame01_gt_slice9.png,256,216,1,"{0: 53266, 85: 376, 170: 634, 255: 1020}",0
+patient117_frame01_slice10.png,256,216,patient117_frame01_gt_slice10.png,256,216,1,"{0: 54519, 85: 143, 170: 383, 255: 251}",0
+patient117_frame13_slice1.png,256,216,patient117_frame13_gt_slice1.png,256,216,1,"{0: 53169, 170: 959, 255: 1168}",0
+patient117_frame13_slice2.png,256,216,patient117_frame13_gt_slice2.png,256,216,1,"{0: 52228, 170: 1234, 255: 1834}",0
+patient117_frame13_slice3.png,256,216,patient117_frame13_gt_slice3.png,256,216,1,"{0: 50347, 85: 1465, 170: 1438, 255: 2046}",0
+patient117_frame13_slice4.png,256,216,patient117_frame13_gt_slice4.png,256,216,1,"{0: 50485, 85: 1234, 170: 1501, 255: 2076}",0
+patient117_frame13_slice5.png,256,216,patient117_frame13_gt_slice5.png,256,216,1,"{0: 51014, 85: 896, 170: 1383, 255: 2003}",0
+patient117_frame13_slice6.png,256,216,patient117_frame13_gt_slice6.png,256,216,1,"{0: 51577, 85: 585, 170: 1215, 255: 1919}",0
+patient117_frame13_slice7.png,256,216,patient117_frame13_gt_slice7.png,256,216,1,"{0: 51982, 85: 445, 170: 1196, 255: 1673}",0
+patient117_frame13_slice8.png,256,216,patient117_frame13_gt_slice8.png,256,216,1,"{0: 52661, 85: 253, 170: 1032, 255: 1350}",0
+patient117_frame13_slice9.png,256,216,patient117_frame13_gt_slice9.png,256,216,1,"{0: 53547, 85: 215, 170: 754, 255: 780}",0
+patient117_frame13_slice10.png,256,216,patient117_frame13_gt_slice10.png,256,216,1,"{0: 54690, 170: 440, 255: 166}",0
+patient118_frame01_slice1.png,256,216,patient118_frame01_gt_slice1.png,256,216,1,"{0: 52214, 85: 1344, 170: 842, 255: 896}",0
+patient118_frame01_slice2.png,256,216,patient118_frame01_gt_slice2.png,256,216,1,"{0: 52053, 85: 1290, 170: 1025, 255: 928}",0
+patient118_frame01_slice3.png,256,216,patient118_frame01_gt_slice3.png,256,216,1,"{0: 52184, 85: 1190, 170: 995, 255: 927}",0
+patient118_frame01_slice4.png,256,216,patient118_frame01_gt_slice4.png,256,216,1,"{0: 52555, 85: 919, 170: 919, 255: 903}",0
+patient118_frame01_slice5.png,256,216,patient118_frame01_gt_slice5.png,256,216,1,"{0: 52897, 85: 713, 170: 705, 255: 981}",0
+patient118_frame01_slice6.png,256,216,patient118_frame01_gt_slice6.png,256,216,1,"{0: 53250, 85: 622, 170: 583, 255: 841}",0
+patient118_frame01_slice7.png,256,216,patient118_frame01_gt_slice7.png,256,216,1,"{0: 53686, 85: 521, 170: 404, 255: 685}",0
+patient118_frame01_slice8.png,256,216,patient118_frame01_gt_slice8.png,256,216,1,"{0: 54025, 85: 412, 170: 401, 255: 458}",0
+patient118_frame01_slice9.png,256,216,patient118_frame01_gt_slice9.png,256,216,1,"{0: 54963, 170: 171, 255: 162}",0
+patient118_frame10_slice1.png,256,216,patient118_frame10_gt_slice1.png,256,216,1,"{0: 53926, 170: 829, 255: 541}",0
+patient118_frame10_slice2.png,256,216,patient118_frame10_gt_slice2.png,256,216,1,"{0: 52724, 85: 878, 170: 1200, 255: 494}",0
+patient118_frame10_slice3.png,256,216,patient118_frame10_gt_slice3.png,256,216,1,"{0: 52909, 85: 716, 170: 1172, 255: 499}",0
+patient118_frame10_slice4.png,256,216,patient118_frame10_gt_slice4.png,256,216,1,"{0: 53304, 85: 485, 170: 1016, 255: 491}",0
+patient118_frame10_slice5.png,256,216,patient118_frame10_gt_slice5.png,256,216,1,"{0: 53580, 85: 256, 170: 742, 255: 718}",0
+patient118_frame10_slice6.png,256,216,patient118_frame10_gt_slice6.png,256,216,1,"{0: 53610, 85: 370, 170: 534, 255: 782}",0
+patient118_frame10_slice7.png,256,216,patient118_frame10_gt_slice7.png,256,216,1,"{0: 53785, 85: 445, 170: 339, 255: 727}",0
+patient118_frame10_slice8.png,256,216,patient118_frame10_gt_slice8.png,256,216,1,"{0: 54172, 85: 246, 170: 340, 255: 538}",0
+patient118_frame10_slice9.png,256,216,patient118_frame10_gt_slice9.png,256,216,1,"{0: 54847, 170: 232, 255: 217}",0
+patient119_frame01_slice1.png,174,208,patient119_frame01_gt_slice1.png,174,208,1,"{0: 33569, 85: 1506, 170: 392, 255: 725}",0
+patient119_frame01_slice2.png,174,208,patient119_frame01_gt_slice2.png,174,208,1,"{0: 33495, 85: 1449, 170: 431, 255: 817}",0
+patient119_frame01_slice3.png,174,208,patient119_frame01_gt_slice3.png,174,208,1,"{0: 33573, 85: 1357, 170: 448, 255: 814}",0
+patient119_frame01_slice4.png,174,208,patient119_frame01_gt_slice4.png,174,208,1,"{0: 33600, 85: 1304, 170: 418, 255: 870}",0
+patient119_frame01_slice5.png,174,208,patient119_frame01_gt_slice5.png,174,208,1,"{0: 33610, 85: 1299, 170: 475, 255: 808}",0
+patient119_frame01_slice6.png,174,208,patient119_frame01_gt_slice6.png,174,208,1,"{0: 33667, 85: 1246, 170: 464, 255: 815}",0
+patient119_frame01_slice7.png,174,208,patient119_frame01_gt_slice7.png,174,208,1,"{0: 33825, 85: 1143, 170: 449, 255: 775}",0
+patient119_frame01_slice8.png,174,208,patient119_frame01_gt_slice8.png,174,208,1,"{0: 33916, 85: 1109, 170: 444, 255: 723}",0
+patient119_frame01_slice9.png,174,208,patient119_frame01_gt_slice9.png,174,208,1,"{0: 34058, 85: 1049, 170: 403, 255: 682}",0
+patient119_frame01_slice10.png,174,208,patient119_frame01_gt_slice10.png,174,208,1,"{0: 34148, 85: 998, 170: 391, 255: 655}",0
+patient119_frame01_slice11.png,174,208,patient119_frame01_gt_slice11.png,174,208,1,"{0: 34407, 85: 884, 170: 337, 255: 564}",0
+patient119_frame01_slice12.png,174,208,patient119_frame01_gt_slice12.png,174,208,1,"{0: 34552, 85: 848, 170: 297, 255: 495}",0
+patient119_frame01_slice13.png,174,208,patient119_frame01_gt_slice13.png,174,208,1,"{0: 34802, 85: 713, 170: 272, 255: 405}",0
+patient119_frame01_slice14.png,174,208,patient119_frame01_gt_slice14.png,174,208,1,"{0: 34976, 85: 671, 170: 231, 255: 314}",0
+patient119_frame01_slice15.png,174,208,patient119_frame01_gt_slice15.png,174,208,1,"{0: 35306, 85: 515, 170: 196, 255: 175}",0
+patient119_frame01_slice16.png,174,208,patient119_frame01_gt_slice16.png,174,208,1,"{0: 35713, 85: 305, 170: 110, 255: 64}",0
+patient119_frame01_slice17.png,174,208,patient119_frame01_gt_slice17.png,174,208,1,"{0: 36115, 255: 77}",0
+patient119_frame09_slice3.png,174,208,patient119_frame09_gt_slice3.png,174,208,1,"{0: 34603, 85: 836, 170: 290, 255: 463}",0
+patient119_frame09_slice4.png,174,208,patient119_frame09_gt_slice4.png,174,208,1,"{0: 34455, 85: 938, 170: 488, 255: 311}",0
+patient119_frame09_slice5.png,174,208,patient119_frame09_gt_slice5.png,174,208,1,"{0: 34355, 85: 998, 170: 520, 255: 319}",0
+patient119_frame09_slice6.png,174,208,patient119_frame09_gt_slice6.png,174,208,1,"{0: 34441, 85: 886, 170: 526, 255: 339}",0
+patient119_frame09_slice7.png,174,208,patient119_frame09_gt_slice7.png,174,208,1,"{0: 34563, 85: 725, 170: 515, 255: 389}",0
+patient119_frame09_slice8.png,174,208,patient119_frame09_gt_slice8.png,174,208,1,"{0: 34635, 85: 690, 170: 481, 255: 386}",0
+patient119_frame09_slice9.png,174,208,patient119_frame09_gt_slice9.png,174,208,1,"{0: 34741, 85: 622, 170: 486, 255: 343}",0
+patient119_frame09_slice10.png,174,208,patient119_frame09_gt_slice10.png,174,208,1,"{0: 34822, 85: 599, 170: 458, 255: 313}",0
+patient119_frame09_slice11.png,174,208,patient119_frame09_gt_slice11.png,174,208,1,"{0: 35027, 85: 480, 170: 429, 255: 256}",0
+patient119_frame09_slice12.png,174,208,patient119_frame09_gt_slice12.png,174,208,1,"{0: 35122, 85: 475, 170: 392, 255: 203}",0
+patient119_frame09_slice13.png,174,208,patient119_frame09_gt_slice13.png,174,208,1,"{0: 35320, 85: 379, 170: 341, 255: 152}",0
+patient119_frame09_slice14.png,174,208,patient119_frame09_gt_slice14.png,174,208,1,"{0: 35400, 85: 349, 170: 329, 255: 114}",0
+patient119_frame09_slice15.png,174,208,patient119_frame09_gt_slice15.png,174,208,1,"{0: 35656, 85: 247, 170: 244, 255: 45}",0
+patient119_frame09_slice16.png,174,208,patient119_frame09_gt_slice16.png,174,208,1,"{0: 35923, 85: 108, 170: 136, 255: 25}",0
+patient120_frame01_slice1.png,214,256,patient120_frame01_gt_slice1.png,214,256,1,"{0: 53138, 170: 849, 255: 797}",0
+patient120_frame01_slice2.png,214,256,patient120_frame01_gt_slice2.png,214,256,1,"{0: 52137, 85: 834, 170: 966, 255: 847}",0
+patient120_frame01_slice3.png,214,256,patient120_frame01_gt_slice3.png,214,256,1,"{0: 52151, 85: 807, 170: 800, 255: 1026}",0
+patient120_frame01_slice4.png,214,256,patient120_frame01_gt_slice4.png,214,256,1,"{0: 52424, 85: 594, 170: 682, 255: 1084}",0
+patient120_frame01_slice5.png,214,256,patient120_frame01_gt_slice5.png,214,256,1,"{0: 52835, 85: 306, 170: 565, 255: 1078}",0
+patient120_frame01_slice6.png,214,256,patient120_frame01_gt_slice6.png,214,256,1,"{0: 52717, 85: 330, 170: 591, 255: 1146}",0
+patient120_frame01_slice7.png,214,256,patient120_frame01_gt_slice7.png,214,256,1,"{0: 53314, 85: 151, 170: 465, 255: 854}",0
+patient120_frame01_slice8.png,214,256,patient120_frame01_gt_slice8.png,214,256,1,"{0: 54237, 170: 287, 255: 260}",0
+patient120_frame08_slice1.png,214,256,patient120_frame08_gt_slice1.png,214,256,1,"{0: 53414, 170: 879, 255: 491}",0
+patient120_frame08_slice2.png,214,256,patient120_frame08_gt_slice2.png,214,256,1,"{0: 52830, 85: 386, 170: 1026, 255: 542}",0
+patient120_frame08_slice3.png,214,256,patient120_frame08_gt_slice3.png,214,256,1,"{0: 52629, 85: 507, 170: 991, 255: 657}",0
+patient120_frame08_slice4.png,214,256,patient120_frame08_gt_slice4.png,214,256,1,"{0: 52869, 85: 251, 170: 851, 255: 813}",0
+patient120_frame08_slice5.png,214,256,patient120_frame08_gt_slice5.png,214,256,1,"{0: 53134, 85: 152, 170: 768, 255: 730}",0
+patient120_frame08_slice6.png,214,256,patient120_frame08_gt_slice6.png,214,256,1,"{0: 53129, 85: 228, 170: 608, 255: 819}",0
+patient120_frame08_slice7.png,214,256,patient120_frame08_gt_slice7.png,214,256,1,"{0: 53601, 85: 92, 170: 539, 255: 552}",0
+patient120_frame08_slice8.png,214,256,patient120_frame08_gt_slice8.png,214,256,1,"{0: 54509, 170: 270, 255: 5}",0
+patient121_frame01_slice1.png,240,166,patient121_frame01_gt_slice1.png,240,166,1,"{0: 37142, 85: 1434, 170: 572, 255: 692}",0
+patient121_frame01_slice2.png,240,166,patient121_frame01_gt_slice2.png,240,166,1,"{0: 36781, 85: 1696, 170: 606, 255: 757}",0
+patient121_frame01_slice3.png,240,166,patient121_frame01_gt_slice3.png,240,166,1,"{0: 36824, 85: 1597, 170: 546, 255: 873}",0
+patient121_frame01_slice4.png,240,166,patient121_frame01_gt_slice4.png,240,166,1,"{0: 37039, 85: 1399, 170: 500, 255: 902}",0
+patient121_frame01_slice5.png,240,166,patient121_frame01_gt_slice5.png,240,166,1,"{0: 37414, 85: 990, 170: 504, 255: 932}",0
+patient121_frame01_slice6.png,240,166,patient121_frame01_gt_slice6.png,240,166,1,"{0: 37897, 85: 716, 170: 425, 255: 802}",0
+patient121_frame01_slice7.png,240,166,patient121_frame01_gt_slice7.png,240,166,1,"{0: 38327, 85: 488, 170: 369, 255: 656}",0
+patient121_frame01_slice8.png,240,166,patient121_frame01_gt_slice8.png,240,166,1,"{0: 38786, 85: 302, 170: 349, 255: 403}",0
+patient121_frame10_slice2.png,240,166,patient121_frame10_gt_slice2.png,240,166,1,"{0: 37301, 85: 1473, 170: 763, 255: 303}",0
+patient121_frame10_slice3.png,240,166,patient121_frame10_gt_slice3.png,240,166,1,"{0: 37570, 85: 1208, 170: 734, 255: 328}",0
+patient121_frame10_slice4.png,240,166,patient121_frame10_gt_slice4.png,240,166,1,"{0: 37662, 85: 1066, 170: 716, 255: 396}",0
+patient121_frame10_slice5.png,240,166,patient121_frame10_gt_slice5.png,240,166,1,"{0: 38158, 85: 631, 170: 628, 255: 423}",0
+patient121_frame10_slice6.png,240,166,patient121_frame10_gt_slice6.png,240,166,1,"{0: 38607, 85: 343, 170: 571, 255: 319}",0
+patient121_frame10_slice7.png,240,166,patient121_frame10_gt_slice7.png,240,166,1,"{0: 38945, 85: 218, 170: 457, 255: 220}",0
+patient121_frame10_slice8.png,240,166,patient121_frame10_gt_slice8.png,240,166,1,"{0: 39349, 85: 78, 170: 338, 255: 75}",0
+patient122_frame01_slice1.png,180,224,patient122_frame01_gt_slice1.png,180,224,1,"{0: 37198, 85: 1261, 170: 702, 255: 1159}",0
+patient122_frame01_slice2.png,180,224,patient122_frame01_gt_slice2.png,180,224,1,"{0: 37264, 85: 981, 170: 811, 255: 1264}",0
+patient122_frame01_slice3.png,180,224,patient122_frame01_gt_slice3.png,180,224,1,"{0: 37407, 85: 721, 170: 893, 255: 1299}",0
+patient122_frame01_slice4.png,180,224,patient122_frame01_gt_slice4.png,180,224,1,"{0: 37670, 85: 558, 170: 847, 255: 1245}",0
+patient122_frame01_slice5.png,180,224,patient122_frame01_gt_slice5.png,180,224,1,"{0: 38085, 85: 389, 170: 819, 255: 1027}",0
+patient122_frame01_slice6.png,180,224,patient122_frame01_gt_slice6.png,180,224,1,"{0: 38729, 85: 229, 170: 524, 255: 838}",0
+patient122_frame01_slice7.png,180,224,patient122_frame01_gt_slice7.png,180,224,1,"{0: 39173, 85: 133, 170: 402, 255: 612}",0
+patient122_frame01_slice8.png,180,224,patient122_frame01_gt_slice8.png,180,224,1,"{0: 39640, 85: 36, 170: 344, 255: 300}",0
+patient122_frame01_slice9.png,180,224,patient122_frame01_gt_slice9.png,180,224,1,"{0: 40134, 170: 171, 255: 15}",0
+patient122_frame06_slice1.png,180,224,patient122_frame06_gt_slice1.png,180,224,1,"{0: 38924, 170: 595, 255: 801}",0
+patient122_frame06_slice2.png,180,224,patient122_frame06_gt_slice2.png,180,224,1,"{0: 37867, 85: 732, 170: 840, 255: 881}",0
+patient122_frame06_slice3.png,180,224,patient122_frame06_gt_slice3.png,180,224,1,"{0: 37818, 85: 631, 170: 958, 255: 913}",0
+patient122_frame06_slice4.png,180,224,patient122_frame06_gt_slice4.png,180,224,1,"{0: 38022, 85: 447, 170: 960, 255: 891}",0
+patient122_frame06_slice5.png,180,224,patient122_frame06_gt_slice5.png,180,224,1,"{0: 38478, 85: 277, 170: 808, 255: 757}",0
+patient122_frame06_slice6.png,180,224,patient122_frame06_gt_slice6.png,180,224,1,"{0: 39063, 85: 140, 170: 585, 255: 532}",0
+patient122_frame06_slice7.png,180,224,patient122_frame06_gt_slice7.png,180,224,1,"{0: 39382, 85: 81, 170: 490, 255: 367}",0
+patient122_frame06_slice8.png,180,224,patient122_frame06_gt_slice8.png,180,224,1,"{0: 39769, 170: 349, 255: 202}",0
+patient122_frame06_slice9.png,180,224,patient122_frame06_gt_slice9.png,180,224,1,"{0: 40089, 170: 134, 255: 97}",0
+patient123_frame01_slice2.png,216,256,patient123_frame01_gt_slice2.png,216,256,1,"{0: 51906, 85: 1830, 170: 784, 255: 776}",0
+patient123_frame01_slice3.png,216,256,patient123_frame01_gt_slice3.png,216,256,1,"{0: 52209, 85: 1423, 170: 814, 255: 850}",0
+patient123_frame01_slice4.png,216,256,patient123_frame01_gt_slice4.png,216,256,1,"{0: 52641, 85: 1096, 170: 698, 255: 861}",0
+patient123_frame01_slice5.png,216,256,patient123_frame01_gt_slice5.png,216,256,1,"{0: 53248, 85: 645, 170: 580, 255: 823}",0
+patient123_frame01_slice6.png,216,256,patient123_frame01_gt_slice6.png,216,256,1,"{0: 53621, 85: 394, 170: 544, 255: 737}",0
+patient123_frame01_slice7.png,216,256,patient123_frame01_gt_slice7.png,216,256,1,"{0: 54035, 85: 196, 170: 548, 255: 517}",0
+patient123_frame01_slice8.png,216,256,patient123_frame01_gt_slice8.png,216,256,1,"{0: 54403, 85: 114, 170: 487, 255: 292}",0
+patient123_frame11_slice2.png,216,256,patient123_frame11_gt_slice2.png,216,256,1,"{0: 54133, 170: 769, 255: 394}",0
+patient123_frame11_slice3.png,216,256,patient123_frame11_gt_slice3.png,216,256,1,"{0: 52842, 85: 1154, 170: 1029, 255: 271}",0
+patient123_frame11_slice4.png,216,256,patient123_frame11_gt_slice4.png,216,256,1,"{0: 53100, 85: 930, 170: 1059, 255: 207}",0
+patient123_frame11_slice5.png,216,256,patient123_frame11_gt_slice5.png,216,256,1,"{0: 53594, 85: 564, 170: 964, 255: 174}",0
+patient123_frame11_slice6.png,216,256,patient123_frame11_gt_slice6.png,216,256,1,"{0: 54121, 85: 233, 170: 815, 255: 127}",0
+patient123_frame11_slice7.png,216,256,patient123_frame11_gt_slice7.png,216,256,1,"{0: 54423, 85: 101, 170: 645, 255: 127}",0
+patient123_frame11_slice8.png,216,256,patient123_frame11_gt_slice8.png,216,256,1,"{0: 54736, 85: 52, 170: 465, 255: 43}",0
+patient124_frame01_slice2.png,168,208,patient124_frame01_gt_slice2.png,168,208,1,"{0: 33017, 85: 1096, 170: 348, 255: 483}",0
+patient124_frame01_slice3.png,168,208,patient124_frame01_gt_slice3.png,168,208,1,"{0: 32868, 85: 1120, 170: 409, 255: 547}",0
+patient124_frame01_slice4.png,168,208,patient124_frame01_gt_slice4.png,168,208,1,"{0: 32764, 85: 1212, 170: 473, 255: 495}",0
+patient124_frame01_slice5.png,168,208,patient124_frame01_gt_slice5.png,168,208,1,"{0: 32684, 85: 1212, 170: 455, 255: 593}",0
+patient124_frame01_slice6.png,168,208,patient124_frame01_gt_slice6.png,168,208,1,"{0: 32693, 85: 1209, 170: 455, 255: 587}",0
+patient124_frame01_slice7.png,168,208,patient124_frame01_gt_slice7.png,168,208,1,"{0: 32532, 85: 1232, 170: 446, 255: 734}",0
+patient124_frame01_slice8.png,168,208,patient124_frame01_gt_slice8.png,168,208,1,"{0: 32812, 85: 1106, 170: 465, 255: 561}",0
+patient124_frame01_slice9.png,168,208,patient124_frame01_gt_slice9.png,168,208,1,"{0: 32858, 85: 1056, 170: 447, 255: 583}",0
+patient124_frame01_slice10.png,168,208,patient124_frame01_gt_slice10.png,168,208,1,"{0: 33075, 85: 937, 170: 430, 255: 502}",0
+patient124_frame01_slice11.png,168,208,patient124_frame01_gt_slice11.png,168,208,1,"{0: 33154, 85: 884, 170: 392, 255: 514}",0
+patient124_frame01_slice12.png,168,208,patient124_frame01_gt_slice12.png,168,208,1,"{0: 33293, 85: 783, 170: 368, 255: 500}",0
+patient124_frame01_slice13.png,168,208,patient124_frame01_gt_slice13.png,168,208,1,"{0: 33344, 85: 691, 170: 324, 255: 585}",0
+patient124_frame01_slice14.png,168,208,patient124_frame01_gt_slice14.png,168,208,1,"{0: 33627, 85: 610, 170: 338, 255: 369}",0
+patient124_frame01_slice15.png,168,208,patient124_frame01_gt_slice15.png,168,208,1,"{0: 33644, 85: 566, 170: 309, 255: 425}",0
+patient124_frame01_slice16.png,168,208,patient124_frame01_gt_slice16.png,168,208,1,"{0: 33825, 85: 508, 170: 296, 255: 315}",0
+patient124_frame01_slice17.png,168,208,patient124_frame01_gt_slice17.png,168,208,1,"{0: 33971, 85: 412, 170: 256, 255: 305}",0
+patient124_frame01_slice18.png,168,208,patient124_frame01_gt_slice18.png,168,208,1,"{0: 34184, 85: 372, 170: 203, 255: 185}",0
+patient124_frame01_slice19.png,168,208,patient124_frame01_gt_slice19.png,168,208,1,"{0: 34226, 85: 353, 170: 173, 255: 192}",0
+patient124_frame01_slice20.png,168,208,patient124_frame01_gt_slice20.png,168,208,1,"{0: 34621, 85: 197, 170: 78, 255: 48}",0
+patient124_frame01_slice21.png,168,208,patient124_frame01_gt_slice21.png,168,208,1,"{0: 34596, 85: 159, 170: 110, 255: 79}",0
+patient124_frame07_slice2.png,168,208,patient124_frame07_gt_slice2.png,168,208,1,"{0: 34294, 255: 650}",0
+patient124_frame07_slice3.png,168,208,patient124_frame07_gt_slice3.png,168,208,1,"{0: 33635, 85: 705, 170: 241, 255: 363}",0
+patient124_frame07_slice4.png,168,208,patient124_frame07_gt_slice4.png,168,208,1,"{0: 33095, 85: 1150, 170: 365, 255: 334}",0
+patient124_frame07_slice5.png,168,208,patient124_frame07_gt_slice5.png,168,208,1,"{0: 33087, 85: 1130, 170: 433, 255: 294}",0
+patient124_frame07_slice6.png,168,208,patient124_frame07_gt_slice6.png,168,208,1,"{0: 33040, 85: 1087, 170: 556, 255: 261}",0
+patient124_frame07_slice7.png,168,208,patient124_frame07_gt_slice7.png,168,208,1,"{0: 32924, 85: 1142, 170: 555, 255: 323}",0
+patient124_frame07_slice8.png,168,208,patient124_frame07_gt_slice8.png,168,208,1,"{0: 33144, 85: 900, 170: 642, 255: 258}",0
+patient124_frame07_slice9.png,168,208,patient124_frame07_gt_slice9.png,168,208,1,"{0: 33249, 85: 794, 170: 615, 255: 286}",0
+patient124_frame07_slice10.png,168,208,patient124_frame07_gt_slice10.png,168,208,1,"{0: 33385, 85: 716, 170: 655, 255: 188}",0
+patient124_frame07_slice11.png,168,208,patient124_frame07_gt_slice11.png,168,208,1,"{0: 33507, 85: 653, 170: 579, 255: 205}",0
+patient124_frame07_slice12.png,168,208,patient124_frame07_gt_slice12.png,168,208,1,"{0: 33666, 85: 563, 170: 500, 255: 215}",0
+patient124_frame07_slice13.png,168,208,patient124_frame07_gt_slice13.png,168,208,1,"{0: 33680, 85: 554, 170: 394, 255: 316}",0
+patient124_frame07_slice14.png,168,208,patient124_frame07_gt_slice14.png,168,208,1,"{0: 33931, 85: 417, 170: 475, 255: 121}",0
+patient124_frame07_slice15.png,168,208,patient124_frame07_gt_slice15.png,168,208,1,"{0: 34006, 85: 375, 170: 428, 255: 135}",0
+patient124_frame07_slice16.png,168,208,patient124_frame07_gt_slice16.png,168,208,1,"{0: 34140, 85: 322, 170: 380, 255: 102}",0
+patient124_frame07_slice17.png,168,208,patient124_frame07_gt_slice17.png,168,208,1,"{0: 34237, 85: 267, 170: 355, 255: 85}",0
+patient124_frame07_slice18.png,168,208,patient124_frame07_gt_slice18.png,168,208,1,"{0: 34428, 85: 204, 170: 265, 255: 47}",0
+patient124_frame07_slice19.png,168,208,patient124_frame07_gt_slice19.png,168,208,1,"{0: 34494, 85: 201, 170: 193, 255: 56}",0
+patient125_frame01_slice1.png,208,162,patient125_frame01_gt_slice1.png,208,162,1,"{0: 32054, 85: 862, 170: 306, 255: 474}",0
+patient125_frame01_slice2.png,208,162,patient125_frame01_gt_slice2.png,208,162,1,"{0: 31825, 85: 887, 170: 363, 255: 621}",0
+patient125_frame01_slice3.png,208,162,patient125_frame01_gt_slice3.png,208,162,1,"{0: 31701, 85: 917, 170: 389, 255: 689}",0
+patient125_frame01_slice4.png,208,162,patient125_frame01_gt_slice4.png,208,162,1,"{0: 31682, 85: 906, 170: 360, 255: 748}",0
+patient125_frame01_slice5.png,208,162,patient125_frame01_gt_slice5.png,208,162,1,"{0: 31596, 85: 984, 170: 378, 255: 738}",0
+patient125_frame01_slice6.png,208,162,patient125_frame01_gt_slice6.png,208,162,1,"{0: 31948, 85: 719, 170: 375, 255: 654}",0
+patient125_frame01_slice7.png,208,162,patient125_frame01_gt_slice7.png,208,162,1,"{0: 31960, 85: 681, 170: 345, 255: 710}",0
+patient125_frame01_slice8.png,208,162,patient125_frame01_gt_slice8.png,208,162,1,"{0: 32231, 85: 563, 170: 339, 255: 563}",0
+patient125_frame01_slice9.png,208,162,patient125_frame01_gt_slice9.png,208,162,1,"{0: 32275, 85: 494, 170: 328, 255: 599}",0
+patient125_frame01_slice10.png,208,162,patient125_frame01_gt_slice10.png,208,162,1,"{0: 32495, 85: 440, 170: 275, 255: 486}",0
+patient125_frame01_slice11.png,208,162,patient125_frame01_gt_slice11.png,208,162,1,"{0: 32557, 85: 365, 170: 272, 255: 502}",0
+patient125_frame01_slice12.png,208,162,patient125_frame01_gt_slice12.png,208,162,1,"{0: 32807, 85: 309, 170: 240, 255: 340}",0
+patient125_frame01_slice13.png,208,162,patient125_frame01_gt_slice13.png,208,162,1,"{0: 32882, 85: 254, 170: 223, 255: 337}",0
+patient125_frame01_slice14.png,208,162,patient125_frame01_gt_slice14.png,208,162,1,"{0: 33131, 85: 188, 170: 152, 255: 225}",0
+patient125_frame01_slice15.png,208,162,patient125_frame01_gt_slice15.png,208,162,1,"{0: 33220, 85: 126, 170: 137, 255: 213}",0
+patient125_frame01_slice16.png,208,162,patient125_frame01_gt_slice16.png,208,162,1,"{0: 33445, 85: 61, 170: 97, 255: 93}",0
+patient125_frame01_slice17.png,208,162,patient125_frame01_gt_slice17.png,208,162,1,"{0: 33529, 85: 33, 170: 76, 255: 58}",0
+patient125_frame07_slice3.png,208,162,patient125_frame07_gt_slice3.png,208,162,1,"{0: 32568, 85: 524, 170: 277, 255: 327}",0
+patient125_frame07_slice4.png,208,162,patient125_frame07_gt_slice4.png,208,162,1,"{0: 32283, 85: 743, 170: 380, 255: 290}",0
+patient125_frame07_slice5.png,208,162,patient125_frame07_gt_slice5.png,208,162,1,"{0: 32133, 85: 874, 170: 389, 255: 300}",0
+patient125_frame07_slice6.png,208,162,patient125_frame07_gt_slice6.png,208,162,1,"{0: 32374, 85: 534, 170: 490, 255: 298}",0
+patient125_frame07_slice7.png,208,162,patient125_frame07_gt_slice7.png,208,162,1,"{0: 32372, 85: 502, 170: 480, 255: 342}",0
+patient125_frame07_slice8.png,208,162,patient125_frame07_gt_slice8.png,208,162,1,"{0: 32573, 85: 360, 170: 470, 255: 293}",0
+patient125_frame07_slice9.png,208,162,patient125_frame07_gt_slice9.png,208,162,1,"{0: 32604, 85: 352, 170: 434, 255: 306}",0
+patient125_frame07_slice10.png,208,162,patient125_frame07_gt_slice10.png,208,162,1,"{0: 32805, 85: 244, 170: 407, 255: 240}",0
+patient125_frame07_slice11.png,208,162,patient125_frame07_gt_slice11.png,208,162,1,"{0: 32857, 85: 221, 170: 380, 255: 238}",0
+patient125_frame07_slice12.png,208,162,patient125_frame07_gt_slice12.png,208,162,1,"{0: 33115, 85: 142, 170: 313, 255: 126}",0
+patient125_frame07_slice13.png,208,162,patient125_frame07_gt_slice13.png,208,162,1,"{0: 33162, 85: 131, 170: 281, 255: 122}",0
+patient125_frame07_slice14.png,208,162,patient125_frame07_gt_slice14.png,208,162,1,"{0: 33375, 85: 71, 170: 196, 255: 54}",0
+patient125_frame07_slice15.png,208,162,patient125_frame07_gt_slice15.png,208,162,1,"{0: 33409, 85: 63, 170: 182, 255: 42}",0
+patient125_frame07_slice16.png,208,162,patient125_frame07_gt_slice16.png,208,162,1,"{0: 33631, 170: 58, 255: 7}",0
+patient125_frame07_slice17.png,208,162,patient125_frame07_gt_slice17.png,208,162,1,"{0: 33649, 255: 47}",0
+patient126_frame01_slice2.png,208,174,patient126_frame01_gt_slice2.png,208,174,1,"{0: 34615, 85: 972, 170: 258, 255: 347}",0
+patient126_frame01_slice3.png,208,174,patient126_frame01_gt_slice3.png,208,174,1,"{0: 34417, 85: 1101, 170: 279, 255: 395}",0
+patient126_frame01_slice4.png,208,174,patient126_frame01_gt_slice4.png,208,174,1,"{0: 34305, 85: 1149, 170: 279, 255: 459}",0
+patient126_frame01_slice5.png,208,174,patient126_frame01_gt_slice5.png,208,174,1,"{0: 34331, 85: 1108, 170: 283, 255: 470}",0
+patient126_frame01_slice6.png,208,174,patient126_frame01_gt_slice6.png,208,174,1,"{0: 34334, 85: 1057, 170: 284, 255: 517}",0
+patient126_frame01_slice7.png,208,174,patient126_frame01_gt_slice7.png,208,174,1,"{0: 34419, 85: 1000, 170: 265, 255: 508}",0
+patient126_frame01_slice8.png,208,174,patient126_frame01_gt_slice8.png,208,174,1,"{0: 34437, 85: 956, 170: 263, 255: 536}",0
+patient126_frame01_slice9.png,208,174,patient126_frame01_gt_slice9.png,208,174,1,"{0: 34632, 85: 839, 170: 224, 255: 497}",0
+patient126_frame01_slice10.png,208,174,patient126_frame01_gt_slice10.png,208,174,1,"{0: 34691, 85: 814, 170: 207, 255: 480}",0
+patient126_frame01_slice11.png,208,174,patient126_frame01_gt_slice11.png,208,174,1,"{0: 34940, 85: 704, 170: 176, 255: 372}",0
+patient126_frame01_slice12.png,208,174,patient126_frame01_gt_slice12.png,208,174,1,"{0: 35070, 85: 664, 170: 169, 255: 289}",0
+patient126_frame01_slice13.png,208,174,patient126_frame01_gt_slice13.png,208,174,1,"{0: 35294, 85: 551, 170: 138, 255: 209}",0
+patient126_frame01_slice14.png,208,174,patient126_frame01_gt_slice14.png,208,174,1,"{0: 35459, 85: 497, 170: 114, 255: 122}",0
+patient126_frame01_slice15.png,208,174,patient126_frame01_gt_slice15.png,208,174,1,"{0: 35768, 85: 344, 170: 60, 255: 20}",0
+patient126_frame01_slice16.png,208,174,patient126_frame01_gt_slice16.png,208,174,1,"{0: 35987, 255: 205}",0
+patient126_frame07_slice3.png,208,174,patient126_frame07_gt_slice3.png,208,174,1,"{0: 34901, 85: 801, 170: 195, 255: 295}",0
+patient126_frame07_slice4.png,208,174,patient126_frame07_gt_slice4.png,208,174,1,"{0: 34751, 85: 941, 170: 224, 255: 276}",0
+patient126_frame07_slice5.png,208,174,patient126_frame07_gt_slice5.png,208,174,1,"{0: 34818, 85: 837, 170: 309, 255: 228}",0
+patient126_frame07_slice6.png,208,174,patient126_frame07_gt_slice6.png,208,174,1,"{0: 34801, 85: 783, 170: 378, 255: 230}",0
+patient126_frame07_slice7.png,208,174,patient126_frame07_gt_slice7.png,208,174,1,"{0: 34896, 85: 705, 170: 347, 255: 244}",0
+patient126_frame07_slice8.png,208,174,patient126_frame07_gt_slice8.png,208,174,1,"{0: 34931, 85: 664, 170: 332, 255: 265}",0
+patient126_frame07_slice9.png,208,174,patient126_frame07_gt_slice9.png,208,174,1,"{0: 35090, 85: 524, 170: 334, 255: 244}",0
+patient126_frame07_slice10.png,208,174,patient126_frame07_gt_slice10.png,208,174,1,"{0: 35171, 85: 505, 170: 286, 255: 230}",0
+patient126_frame07_slice11.png,208,174,patient126_frame07_gt_slice11.png,208,174,1,"{0: 35391, 85: 395, 170: 241, 255: 165}",0
+patient126_frame07_slice12.png,208,174,patient126_frame07_gt_slice12.png,208,174,1,"{0: 35547, 85: 362, 170: 193, 255: 90}",0
+patient126_frame07_slice13.png,208,174,patient126_frame07_gt_slice13.png,208,174,1,"{0: 35740, 85: 264, 170: 138, 255: 50}",0
+patient126_frame07_slice14.png,208,174,patient126_frame07_gt_slice14.png,208,174,1,"{0: 35900, 85: 191, 170: 78, 255: 23}",0
+patient127_frame01_slice1.png,162,208,patient127_frame01_gt_slice1.png,162,208,1,"{0: 32679, 170: 478, 255: 539}",0
+patient127_frame01_slice2.png,162,208,patient127_frame01_gt_slice2.png,162,208,1,"{0: 31415, 85: 1077, 170: 457, 255: 747}",0
+patient127_frame01_slice3.png,162,208,patient127_frame01_gt_slice3.png,162,208,1,"{0: 31311, 85: 1039, 170: 457, 255: 889}",0
+patient127_frame01_slice4.png,162,208,patient127_frame01_gt_slice4.png,162,208,1,"{0: 31390, 85: 1063, 170: 470, 255: 773}",0
+patient127_frame01_slice5.png,162,208,patient127_frame01_gt_slice5.png,162,208,1,"{0: 31396, 85: 992, 170: 428, 255: 880}",0
+patient127_frame01_slice6.png,162,208,patient127_frame01_gt_slice6.png,162,208,1,"{0: 31191, 85: 1257, 170: 426, 255: 822}",0
+patient127_frame01_slice7.png,162,208,patient127_frame01_gt_slice7.png,162,208,1,"{0: 31225, 85: 1147, 170: 442, 255: 882}",0
+patient127_frame01_slice8.png,162,208,patient127_frame01_gt_slice8.png,162,208,1,"{0: 31401, 85: 1101, 170: 453, 255: 741}",0
+patient127_frame01_slice9.png,162,208,patient127_frame01_gt_slice9.png,162,208,1,"{0: 31534, 85: 988, 170: 478, 255: 696}",0
+patient127_frame01_slice10.png,162,208,patient127_frame01_gt_slice10.png,162,208,1,"{0: 31793, 85: 914, 170: 362, 255: 627}",0
+patient127_frame01_slice11.png,162,208,patient127_frame01_gt_slice11.png,162,208,1,"{0: 31908, 85: 784, 170: 341, 255: 663}",0
+patient127_frame01_slice12.png,162,208,patient127_frame01_gt_slice12.png,162,208,1,"{0: 32145, 85: 766, 170: 286, 255: 499}",0
+patient127_frame01_slice13.png,162,208,patient127_frame01_gt_slice13.png,162,208,1,"{0: 32275, 85: 689, 170: 296, 255: 436}",0
+patient127_frame01_slice14.png,162,208,patient127_frame01_gt_slice14.png,162,208,1,"{0: 32514, 85: 633, 170: 232, 255: 317}",0
+patient127_frame01_slice15.png,162,208,patient127_frame01_gt_slice15.png,162,208,1,"{0: 32690, 85: 534, 170: 218, 255: 254}",0
+patient127_frame01_slice16.png,162,208,patient127_frame01_gt_slice16.png,162,208,1,"{0: 32979, 85: 456, 170: 140, 255: 121}",0
+patient127_frame01_slice17.png,162,208,patient127_frame01_gt_slice17.png,162,208,1,"{0: 33139, 85: 353, 170: 126, 255: 78}",0
+patient127_frame01_slice18.png,162,208,patient127_frame01_gt_slice18.png,162,208,1,"{0: 33567, 255: 129}",0
+patient127_frame07_slice2.png,162,208,patient127_frame07_gt_slice2.png,162,208,1,"{0: 32920, 255: 776}",0
+patient127_frame07_slice3.png,162,208,patient127_frame07_gt_slice3.png,162,208,1,"{0: 32081, 85: 798, 170: 393, 255: 424}",0
+patient127_frame07_slice4.png,162,208,patient127_frame07_gt_slice4.png,162,208,1,"{0: 32083, 85: 796, 170: 436, 255: 381}",0
+patient127_frame07_slice5.png,162,208,patient127_frame07_gt_slice5.png,162,208,1,"{0: 32063, 85: 733, 170: 483, 255: 417}",0
+patient127_frame07_slice6.png,162,208,patient127_frame07_gt_slice6.png,162,208,1,"{0: 31837, 85: 946, 170: 513, 255: 400}",0
+patient127_frame07_slice7.png,162,208,patient127_frame07_gt_slice7.png,162,208,1,"{0: 31836, 85: 899, 170: 479, 255: 482}",0
+patient127_frame07_slice8.png,162,208,patient127_frame07_gt_slice8.png,162,208,1,"{0: 31999, 85: 789, 170: 487, 255: 421}",0
+patient127_frame07_slice9.png,162,208,patient127_frame07_gt_slice9.png,162,208,1,"{0: 32135, 85: 670, 170: 431, 255: 460}",0
+patient127_frame07_slice10.png,162,208,patient127_frame07_gt_slice10.png,162,208,1,"{0: 32359, 85: 542, 170: 419, 255: 376}",0
+patient127_frame07_slice11.png,162,208,patient127_frame07_gt_slice11.png,162,208,1,"{0: 32447, 85: 469, 170: 392, 255: 388}",0
+patient127_frame07_slice12.png,162,208,patient127_frame07_gt_slice12.png,162,208,1,"{0: 32648, 85: 442, 170: 332, 255: 274}",0
+patient127_frame07_slice13.png,162,208,patient127_frame07_gt_slice13.png,162,208,1,"{0: 32729, 85: 425, 170: 315, 255: 227}",0
+patient127_frame07_slice14.png,162,208,patient127_frame07_gt_slice14.png,162,208,1,"{0: 32959, 85: 354, 170: 247, 255: 136}",0
+patient127_frame07_slice15.png,162,208,patient127_frame07_gt_slice15.png,162,208,1,"{0: 33086, 85: 291, 170: 205, 255: 114}",0
+patient127_frame07_slice16.png,162,208,patient127_frame07_gt_slice16.png,162,208,1,"{0: 33357, 85: 196, 170: 101, 255: 42}",0
+patient127_frame07_slice17.png,162,208,patient127_frame07_gt_slice17.png,162,208,1,"{0: 33529, 85: 102, 170: 45, 255: 20}",0
+patient128_frame01_slice1.png,216,256,patient128_frame01_gt_slice1.png,216,256,1,"{0: 51262, 85: 1991, 170: 785, 255: 1258}",0
+patient128_frame01_slice2.png,216,256,patient128_frame01_gt_slice2.png,216,256,1,"{0: 51508, 85: 1787, 170: 791, 255: 1210}",0
+patient128_frame01_slice3.png,216,256,patient128_frame01_gt_slice3.png,216,256,1,"{0: 52109, 85: 1278, 170: 742, 255: 1167}",0
+patient128_frame01_slice4.png,216,256,patient128_frame01_gt_slice4.png,216,256,1,"{0: 52626, 85: 895, 170: 626, 255: 1149}",0
+patient128_frame01_slice5.png,216,256,patient128_frame01_gt_slice5.png,216,256,1,"{0: 53148, 85: 605, 170: 502, 255: 1041}",0
+patient128_frame01_slice6.png,216,256,patient128_frame01_gt_slice6.png,216,256,1,"{0: 53559, 85: 464, 170: 376, 255: 897}",0
+patient128_frame01_slice7.png,216,256,patient128_frame01_gt_slice7.png,216,256,1,"{0: 54060, 85: 247, 170: 334, 255: 655}",0
+patient128_frame01_slice8.png,216,256,patient128_frame01_gt_slice8.png,216,256,1,"{0: 54661, 85: 25, 170: 257, 255: 353}",0
+patient128_frame01_slice9.png,216,256,patient128_frame01_gt_slice9.png,216,256,1,"{0: 55133, 170: 96, 255: 67}",0
+patient128_frame11_slice2.png,216,256,patient128_frame11_gt_slice2.png,216,256,1,"{0: 52386, 85: 1324, 170: 967, 255: 619}",0
+patient128_frame11_slice3.png,216,256,patient128_frame11_gt_slice3.png,216,256,1,"{0: 52678, 85: 967, 170: 1197, 255: 454}",0
+patient128_frame11_slice4.png,216,256,patient128_frame11_gt_slice4.png,216,256,1,"{0: 53055, 85: 752, 170: 906, 255: 583}",0
+patient128_frame11_slice5.png,216,256,patient128_frame11_gt_slice5.png,216,256,1,"{0: 53567, 85: 434, 170: 740, 255: 555}",0
+patient128_frame11_slice6.png,216,256,patient128_frame11_gt_slice6.png,216,256,1,"{0: 53949, 85: 319, 170: 584, 255: 444}",0
+patient128_frame11_slice7.png,216,256,patient128_frame11_gt_slice7.png,216,256,1,"{0: 54457, 85: 150, 170: 434, 255: 255}",0
+patient128_frame11_slice8.png,216,256,patient128_frame11_gt_slice8.png,216,256,1,"{0: 54887, 85: 54, 170: 254, 255: 101}",0
+patient129_frame01_slice1.png,154,224,patient129_frame01_gt_slice1.png,154,224,1,"{0: 32958, 170: 485, 255: 1053}",0
+patient129_frame01_slice2.png,154,224,patient129_frame01_gt_slice2.png,154,224,1,"{0: 31758, 85: 1119, 170: 509, 255: 1110}",0
+patient129_frame01_slice3.png,154,224,patient129_frame01_gt_slice3.png,154,224,1,"{0: 31402, 85: 1386, 170: 560, 255: 1148}",0
+patient129_frame01_slice4.png,154,224,patient129_frame01_gt_slice4.png,154,224,1,"{0: 31240, 85: 1605, 170: 540, 255: 1111}",0
+patient129_frame01_slice5.png,154,224,patient129_frame01_gt_slice5.png,154,224,1,"{0: 31299, 85: 1561, 170: 576, 255: 1060}",0
+patient129_frame01_slice6.png,154,224,patient129_frame01_gt_slice6.png,154,224,1,"{0: 31313, 85: 1615, 170: 522, 255: 1046}",0
+patient129_frame01_slice7.png,154,224,patient129_frame01_gt_slice7.png,154,224,1,"{0: 31573, 85: 1415, 170: 517, 255: 991}",0
+patient129_frame01_slice8.png,154,224,patient129_frame01_gt_slice8.png,154,224,1,"{0: 31715, 85: 1350, 170: 467, 255: 964}",0
+patient129_frame01_slice9.png,154,224,patient129_frame01_gt_slice9.png,154,224,1,"{0: 31524, 85: 1483, 170: 463, 255: 1026}",0
+patient129_frame01_slice10.png,154,224,patient129_frame01_gt_slice10.png,154,224,1,"{0: 31947, 85: 1235, 170: 415, 255: 899}",0
+patient129_frame01_slice11.png,154,224,patient129_frame01_gt_slice11.png,154,224,1,"{0: 32257, 85: 1082, 170: 383, 255: 774}",0
+patient129_frame01_slice12.png,154,224,patient129_frame01_gt_slice12.png,154,224,1,"{0: 32331, 85: 1014, 170: 409, 255: 742}",0
+patient129_frame01_slice13.png,154,224,patient129_frame01_gt_slice13.png,154,224,1,"{0: 32818, 85: 838, 170: 288, 255: 552}",0
+patient129_frame01_slice14.png,154,224,patient129_frame01_gt_slice14.png,154,224,1,"{0: 33163, 85: 693, 170: 246, 255: 394}",0
+patient129_frame01_slice15.png,154,224,patient129_frame01_gt_slice15.png,154,224,1,"{0: 33237, 85: 678, 170: 230, 255: 351}",0
+patient129_frame01_slice16.png,154,224,patient129_frame01_gt_slice16.png,154,224,1,"{0: 33652, 85: 503, 170: 153, 255: 188}",0
+patient129_frame01_slice17.png,154,224,patient129_frame01_gt_slice17.png,154,224,1,"{0: 34082, 85: 316, 170: 71, 255: 27}",0
+patient129_frame08_slice2.png,154,224,patient129_frame08_gt_slice2.png,154,224,1,"{0: 33448, 170: 519, 255: 529}",0
+patient129_frame08_slice3.png,154,224,patient129_frame08_gt_slice3.png,154,224,1,"{0: 33438, 170: 498, 255: 560}",0
+patient129_frame08_slice4.png,154,224,patient129_frame08_gt_slice4.png,154,224,1,"{0: 31885, 85: 1432, 170: 682, 255: 497}",0
+patient129_frame08_slice5.png,154,224,patient129_frame08_gt_slice5.png,154,224,1,"{0: 31921, 85: 1388, 170: 703, 255: 484}",0
+patient129_frame08_slice6.png,154,224,patient129_frame08_gt_slice6.png,154,224,1,"{0: 32122, 85: 1222, 170: 637, 255: 515}",0
+patient129_frame08_slice7.png,154,224,patient129_frame08_gt_slice7.png,154,224,1,"{0: 32189, 85: 1094, 170: 647, 255: 566}",0
+patient129_frame08_slice8.png,154,224,patient129_frame08_gt_slice8.png,154,224,1,"{0: 32365, 85: 994, 170: 625, 255: 512}",0
+patient129_frame08_slice9.png,154,224,patient129_frame08_gt_slice9.png,154,224,1,"{0: 32237, 85: 1069, 170: 675, 255: 515}",0
+patient129_frame08_slice10.png,154,224,patient129_frame08_gt_slice10.png,154,224,1,"{0: 32593, 85: 882, 170: 564, 255: 457}",0
+patient129_frame08_slice11.png,154,224,patient129_frame08_gt_slice11.png,154,224,1,"{0: 32941, 85: 640, 170: 546, 255: 369}",0
+patient129_frame08_slice12.png,154,224,patient129_frame08_gt_slice12.png,154,224,1,"{0: 33011, 85: 648, 170: 455, 255: 382}",0
+patient129_frame08_slice13.png,154,224,patient129_frame08_gt_slice13.png,154,224,1,"{0: 33379, 85: 505, 170: 393, 255: 219}",0
+patient129_frame08_slice14.png,154,224,patient129_frame08_gt_slice14.png,154,224,1,"{0: 33734, 85: 359, 170: 308, 255: 95}",0
+patient129_frame08_slice15.png,154,224,patient129_frame08_gt_slice15.png,154,224,1,"{0: 33721, 85: 400, 170: 273, 255: 102}",0
+patient129_frame08_slice16.png,154,224,patient129_frame08_gt_slice16.png,154,224,1,"{0: 34036, 85: 232, 170: 181, 255: 47}",0
+patient129_frame08_slice17.png,154,224,patient129_frame08_gt_slice17.png,154,224,1,"{0: 34427, 255: 69}",0
+patient130_frame01_slice1.png,256,216,patient130_frame01_gt_slice1.png,256,216,1,"{0: 51015, 85: 2038, 170: 802, 255: 1441}",0
+patient130_frame01_slice2.png,256,216,patient130_frame01_gt_slice2.png,256,216,1,"{0: 50827, 85: 1996, 170: 950, 255: 1523}",0
+patient130_frame01_slice3.png,256,216,patient130_frame01_gt_slice3.png,256,216,1,"{0: 50977, 85: 1909, 170: 958, 255: 1452}",0
+patient130_frame01_slice4.png,256,216,patient130_frame01_gt_slice4.png,256,216,1,"{0: 51270, 85: 1709, 170: 968, 255: 1349}",0
+patient130_frame01_slice5.png,256,216,patient130_frame01_gt_slice5.png,256,216,1,"{0: 51741, 85: 1437, 170: 844, 255: 1274}",0
+patient130_frame01_slice6.png,256,216,patient130_frame01_gt_slice6.png,256,216,1,"{0: 52436, 85: 1055, 170: 701, 255: 1104}",0
+patient130_frame01_slice7.png,256,216,patient130_frame01_gt_slice7.png,256,216,1,"{0: 52951, 85: 794, 170: 643, 255: 908}",0
+patient130_frame01_slice8.png,256,216,patient130_frame01_gt_slice8.png,256,216,1,"{0: 53481, 85: 579, 170: 533, 255: 703}",0
+patient130_frame01_slice9.png,256,216,patient130_frame01_gt_slice9.png,256,216,1,"{0: 54020, 85: 350, 170: 423, 255: 503}",0
+patient130_frame01_slice10.png,256,216,patient130_frame01_gt_slice10.png,256,216,1,"{0: 54695, 85: 75, 170: 336, 255: 190}",0
+patient130_frame11_slice2.png,256,216,patient130_frame11_gt_slice2.png,256,216,1,"{0: 53725, 170: 816, 255: 755}",0
+patient130_frame11_slice3.png,256,216,patient130_frame11_gt_slice3.png,256,216,1,"{0: 52050, 85: 1485, 170: 1008, 255: 753}",0
+patient130_frame11_slice4.png,256,216,patient130_frame11_gt_slice4.png,256,216,1,"{0: 52079, 85: 1299, 170: 1266, 255: 652}",0
+patient130_frame11_slice5.png,256,216,patient130_frame11_gt_slice5.png,256,216,1,"{0: 52446, 85: 1070, 170: 1185, 255: 595}",0
+patient130_frame11_slice6.png,256,216,patient130_frame11_gt_slice6.png,256,216,1,"{0: 52999, 85: 733, 170: 1010, 255: 554}",0
+patient130_frame11_slice7.png,256,216,patient130_frame11_gt_slice7.png,256,216,1,"{0: 53472, 85: 535, 170: 910, 255: 379}",0
+patient130_frame11_slice8.png,256,216,patient130_frame11_gt_slice8.png,256,216,1,"{0: 53904, 85: 320, 170: 819, 255: 253}",0
+patient130_frame11_slice9.png,256,216,patient130_frame11_gt_slice9.png,256,216,1,"{0: 54277, 85: 210, 170: 642, 255: 167}",0
+patient130_frame11_slice10.png,256,216,patient130_frame11_gt_slice10.png,256,216,1,"{0: 54959, 170: 289, 255: 48}",0
+patient131_frame01_slice1.png,256,214,patient131_frame01_gt_slice1.png,256,214,1,"{0: 50143, 85: 2249, 170: 759, 255: 1633}",0
+patient131_frame01_slice2.png,256,214,patient131_frame01_gt_slice2.png,256,214,1,"{0: 49886, 85: 2196, 170: 790, 255: 1912}",0
+patient131_frame01_slice3.png,256,214,patient131_frame01_gt_slice3.png,256,214,1,"{0: 50174, 85: 1877, 170: 856, 255: 1877}",0
+patient131_frame01_slice4.png,256,214,patient131_frame01_gt_slice4.png,256,214,1,"{0: 50630, 85: 1607, 170: 750, 255: 1797}",0
+patient131_frame01_slice5.png,256,214,patient131_frame01_gt_slice5.png,256,214,1,"{0: 51207, 85: 1275, 170: 751, 255: 1551}",0
+patient131_frame01_slice6.png,256,214,patient131_frame01_gt_slice6.png,256,214,1,"{0: 51900, 85: 929, 170: 684, 255: 1271}",0
+patient131_frame01_slice7.png,256,214,patient131_frame01_gt_slice7.png,256,214,1,"{0: 52547, 85: 706, 170: 542, 255: 989}",0
+patient131_frame01_slice8.png,256,214,patient131_frame01_gt_slice8.png,256,214,1,"{0: 53091, 85: 518, 170: 411, 255: 764}",0
+patient131_frame01_slice9.png,256,214,patient131_frame01_gt_slice9.png,256,214,1,"{0: 53933, 85: 209, 170: 280, 255: 362}",0
+patient131_frame01_slice10.png,256,214,patient131_frame01_gt_slice10.png,256,214,1,"{0: 54591, 170: 136, 255: 57}",0
+patient131_frame09_slice1.png,256,214,patient131_frame09_gt_slice1.png,256,214,1,"{0: 52878, 170: 606, 255: 1300}",0
+patient131_frame09_slice2.png,256,214,patient131_frame09_gt_slice2.png,256,214,1,"{0: 50527, 85: 1841, 170: 788, 255: 1628}",0
+patient131_frame09_slice3.png,256,214,patient131_frame09_gt_slice3.png,256,214,1,"{0: 50615, 85: 1654, 170: 875, 255: 1640}",0
+patient131_frame09_slice4.png,256,214,patient131_frame09_gt_slice4.png,256,214,1,"{0: 51038, 85: 1392, 170: 809, 255: 1545}",0
+patient131_frame09_slice5.png,256,214,patient131_frame09_gt_slice5.png,256,214,1,"{0: 51463, 85: 1167, 170: 739, 255: 1415}",0
+patient131_frame09_slice6.png,256,214,patient131_frame09_gt_slice6.png,256,214,1,"{0: 52126, 85: 832, 170: 649, 255: 1177}",0
+patient131_frame09_slice7.png,256,214,patient131_frame09_gt_slice7.png,256,214,1,"{0: 52727, 85: 582, 170: 578, 255: 897}",0
+patient131_frame09_slice8.png,256,214,patient131_frame09_gt_slice8.png,256,214,1,"{0: 53200, 85: 409, 170: 498, 255: 677}",0
+patient131_frame09_slice9.png,256,214,patient131_frame09_gt_slice9.png,256,214,1,"{0: 53937, 85: 147, 170: 379, 255: 321}",0
+patient131_frame09_slice10.png,256,214,patient131_frame09_gt_slice10.png,256,214,1,"{0: 54586, 170: 166, 255: 32}",0
+patient132_frame01_slice1.png,256,232,patient132_frame01_gt_slice1.png,256,232,1,"{0: 54097, 85: 2006, 170: 1134, 255: 2155}",0
+patient132_frame01_slice2.png,256,232,patient132_frame01_gt_slice2.png,256,232,1,"{0: 54039, 85: 1987, 170: 1180, 255: 2186}",0
+patient132_frame01_slice3.png,256,232,patient132_frame01_gt_slice3.png,256,232,1,"{0: 54426, 85: 1713, 170: 1137, 255: 2116}",0
+patient132_frame01_slice4.png,256,232,patient132_frame01_gt_slice4.png,256,232,1,"{0: 54987, 85: 1372, 170: 995, 255: 2038}",0
+patient132_frame01_slice5.png,256,232,patient132_frame01_gt_slice5.png,256,232,1,"{0: 55623, 85: 1043, 170: 867, 255: 1859}",0
+patient132_frame01_slice6.png,256,232,patient132_frame01_gt_slice6.png,256,232,1,"{0: 56221, 85: 745, 170: 826, 255: 1600}",0
+patient132_frame01_slice7.png,256,232,patient132_frame01_gt_slice7.png,256,232,1,"{0: 57001, 85: 483, 170: 633, 255: 1275}",0
+patient132_frame01_slice8.png,256,232,patient132_frame01_gt_slice8.png,256,232,1,"{0: 57747, 85: 265, 170: 503, 255: 877}",0
+patient132_frame01_slice9.png,256,232,patient132_frame01_gt_slice9.png,256,232,1,"{0: 58553, 85: 106, 170: 327, 255: 406}",0
+patient132_frame01_slice10.png,256,232,patient132_frame01_gt_slice10.png,256,232,1,"{0: 59114, 170: 251, 255: 27}",0
+patient132_frame15_slice1.png,256,232,patient132_frame15_gt_slice1.png,256,232,1,"{0: 54648, 85: 1862, 170: 1144, 255: 1738}",0
+patient132_frame15_slice2.png,256,232,patient132_frame15_gt_slice2.png,256,232,1,"{0: 54649, 85: 1625, 170: 1220, 255: 1898}",0
+patient132_frame15_slice3.png,256,232,patient132_frame15_gt_slice3.png,256,232,1,"{0: 54768, 85: 1515, 170: 1185, 255: 1924}",0
+patient132_frame15_slice4.png,256,232,patient132_frame15_gt_slice4.png,256,232,1,"{0: 55202, 85: 1300, 170: 954, 255: 1936}",0
+patient132_frame15_slice5.png,256,232,patient132_frame15_gt_slice5.png,256,232,1,"{0: 55860, 85: 888, 170: 915, 255: 1729}",0
+patient132_frame15_slice6.png,256,232,patient132_frame15_gt_slice6.png,256,232,1,"{0: 56559, 85: 520, 170: 866, 255: 1447}",0
+patient132_frame15_slice7.png,256,232,patient132_frame15_gt_slice7.png,256,232,1,"{0: 57229, 85: 376, 170: 662, 255: 1125}",0
+patient132_frame15_slice8.png,256,232,patient132_frame15_gt_slice8.png,256,232,1,"{0: 57954, 85: 229, 170: 553, 255: 656}",0
+patient132_frame15_slice9.png,256,232,patient132_frame15_gt_slice9.png,256,232,1,"{0: 58886, 85: 16, 170: 333, 255: 157}",0
+patient132_frame15_slice10.png,256,232,patient132_frame15_gt_slice10.png,256,232,1,"{0: 59202, 170: 178, 255: 12}",0
+patient133_frame01_slice1.png,224,256,patient133_frame01_gt_slice1.png,224,256,1,"{0: 53820, 85: 936, 170: 806, 255: 1782}",0
+patient133_frame01_slice2.png,224,256,patient133_frame01_gt_slice2.png,224,256,1,"{0: 52794, 85: 1618, 170: 865, 255: 2067}",0
+patient133_frame01_slice3.png,224,256,patient133_frame01_gt_slice3.png,224,256,1,"{0: 52893, 85: 1374, 170: 929, 255: 2148}",0
+patient133_frame01_slice4.png,224,256,patient133_frame01_gt_slice4.png,224,256,1,"{0: 53238, 85: 1054, 170: 1004, 255: 2048}",0
+patient133_frame01_slice5.png,224,256,patient133_frame01_gt_slice5.png,224,256,1,"{0: 53615, 85: 947, 170: 841, 255: 1941}",0
+patient133_frame01_slice6.png,224,256,patient133_frame01_gt_slice6.png,224,256,1,"{0: 54066, 85: 753, 170: 831, 255: 1694}",0
+patient133_frame01_slice7.png,224,256,patient133_frame01_gt_slice7.png,224,256,1,"{0: 54587, 85: 533, 170: 804, 255: 1420}",0
+patient133_frame01_slice8.png,224,256,patient133_frame01_gt_slice8.png,224,256,1,"{0: 55131, 85: 396, 170: 760, 255: 1057}",0
+patient133_frame01_slice9.png,224,256,patient133_frame01_gt_slice9.png,224,256,1,"{0: 55817, 85: 234, 170: 597, 255: 696}",0
+patient133_frame01_slice10.png,224,256,patient133_frame01_gt_slice10.png,224,256,1,"{0: 56381, 85: 112, 170: 423, 255: 428}",0
+patient133_frame10_slice1.png,224,256,patient133_frame10_gt_slice1.png,224,256,1,"{0: 55112, 170: 830, 255: 1402}",0
+patient133_frame10_slice2.png,224,256,patient133_frame10_gt_slice2.png,224,256,1,"{0: 53426, 85: 1282, 170: 901, 255: 1735}",0
+patient133_frame10_slice3.png,224,256,patient133_frame10_gt_slice3.png,224,256,1,"{0: 53455, 85: 1197, 170: 978, 255: 1714}",0
+patient133_frame10_slice4.png,224,256,patient133_frame10_gt_slice4.png,224,256,1,"{0: 53721, 85: 941, 170: 929, 255: 1753}",0
+patient133_frame10_slice5.png,224,256,patient133_frame10_gt_slice5.png,224,256,1,"{0: 53952, 85: 713, 170: 920, 255: 1759}",0
+patient133_frame10_slice6.png,224,256,patient133_frame10_gt_slice6.png,224,256,1,"{0: 54247, 85: 558, 170: 900, 255: 1639}",0
+patient133_frame10_slice7.png,224,256,patient133_frame10_gt_slice7.png,224,256,1,"{0: 54634, 85: 421, 170: 857, 255: 1432}",0
+patient133_frame10_slice8.png,224,256,patient133_frame10_gt_slice8.png,224,256,1,"{0: 55336, 85: 302, 170: 792, 255: 914}",0
+patient133_frame10_slice9.png,224,256,patient133_frame10_gt_slice9.png,224,256,1,"{0: 56049, 85: 184, 170: 618, 255: 493}",0
+patient133_frame10_slice10.png,224,256,patient133_frame10_gt_slice10.png,224,256,1,"{0: 56579, 85: 79, 170: 523, 255: 163}",0
+patient134_frame01_slice3.png,216,256,patient134_frame01_gt_slice3.png,216,256,1,"{0: 53743, 170: 859, 255: 694}",0
+patient134_frame01_slice4.png,216,256,patient134_frame01_gt_slice4.png,216,256,1,"{0: 52291, 85: 1495, 170: 973, 255: 537}",0
+patient134_frame01_slice5.png,216,256,patient134_frame01_gt_slice5.png,216,256,1,"{0: 52566, 85: 1230, 170: 817, 255: 683}",0
+patient134_frame01_slice6.png,216,256,patient134_frame01_gt_slice6.png,216,256,1,"{0: 52785, 85: 1074, 170: 746, 255: 691}",0
+patient134_frame01_slice7.png,216,256,patient134_frame01_gt_slice7.png,216,256,1,"{0: 53104, 85: 860, 170: 619, 255: 713}",0
+patient134_frame01_slice8.png,216,256,patient134_frame01_gt_slice8.png,216,256,1,"{0: 53382, 85: 674, 170: 529, 255: 711}",0
+patient134_frame01_slice9.png,216,256,patient134_frame01_gt_slice9.png,216,256,1,"{0: 53862, 85: 509, 170: 425, 255: 500}",0
+patient134_frame01_slice10.png,216,256,patient134_frame01_gt_slice10.png,216,256,1,"{0: 53929, 85: 458, 170: 415, 255: 494}",0
+patient134_frame01_slice11.png,216,256,patient134_frame01_gt_slice11.png,216,256,1,"{0: 54414, 85: 319, 170: 267, 255: 296}",0
+patient134_frame15_slice4.png,216,256,patient134_frame15_gt_slice4.png,216,256,1,"{0: 53920, 170: 1003, 255: 373}",0
+patient134_frame15_slice5.png,216,256,patient134_frame15_gt_slice5.png,216,256,1,"{0: 52831, 85: 1066, 170: 1153, 255: 246}",0
+patient134_frame15_slice6.png,216,256,patient134_frame15_gt_slice6.png,216,256,1,"{0: 53152, 85: 838, 170: 983, 255: 323}",0
+patient134_frame15_slice7.png,216,256,patient134_frame15_gt_slice7.png,216,256,1,"{0: 53506, 85: 614, 170: 870, 255: 306}",0
+patient134_frame15_slice8.png,216,256,patient134_frame15_gt_slice8.png,216,256,1,"{0: 53765, 85: 440, 170: 781, 255: 310}",0
+patient134_frame15_slice9.png,216,256,patient134_frame15_gt_slice9.png,216,256,1,"{0: 54219, 85: 280, 170: 631, 255: 166}",0
+patient134_frame15_slice10.png,216,256,patient134_frame15_gt_slice10.png,216,256,1,"{0: 54295, 85: 252, 170: 539, 255: 210}",0
+patient134_frame15_slice11.png,216,256,patient134_frame15_gt_slice11.png,216,256,1,"{0: 54715, 85: 129, 170: 376, 255: 76}",0
+patient135_frame01_slice1.png,216,256,patient135_frame01_gt_slice1.png,216,256,1,"{0: 53157, 85: 566, 170: 555, 255: 1018}",0
+patient135_frame01_slice2.png,216,256,patient135_frame01_gt_slice2.png,216,256,1,"{0: 52444, 85: 1068, 170: 701, 255: 1083}",0
+patient135_frame01_slice3.png,216,256,patient135_frame01_gt_slice3.png,216,256,1,"{0: 52534, 85: 1033, 170: 662, 255: 1067}",0
+patient135_frame01_slice4.png,216,256,patient135_frame01_gt_slice4.png,216,256,1,"{0: 52719, 85: 857, 170: 655, 255: 1065}",0
+patient135_frame01_slice5.png,216,256,patient135_frame01_gt_slice5.png,216,256,1,"{0: 53063, 85: 664, 170: 632, 255: 937}",0
+patient135_frame01_slice6.png,216,256,patient135_frame01_gt_slice6.png,216,256,1,"{0: 53373, 85: 486, 170: 563, 255: 874}",0
+patient135_frame01_slice7.png,216,256,patient135_frame01_gt_slice7.png,216,256,1,"{0: 53724, 85: 442, 170: 481, 255: 649}",0
+patient135_frame01_slice8.png,216,256,patient135_frame01_gt_slice8.png,216,256,1,"{0: 54127, 85: 334, 170: 401, 255: 434}",0
+patient135_frame01_slice9.png,216,256,patient135_frame01_gt_slice9.png,216,256,1,"{0: 54702, 170: 333, 255: 261}",0
+patient135_frame01_slice10.png,216,256,patient135_frame01_gt_slice10.png,216,256,1,"{0: 55038, 170: 174, 255: 84}",0
+patient135_frame10_slice1.png,216,256,patient135_frame10_gt_slice1.png,216,256,1,"{0: 54031, 170: 521, 255: 744}",0
+patient135_frame10_slice2.png,216,256,patient135_frame10_gt_slice2.png,216,256,1,"{0: 53777, 170: 630, 255: 889}",0
+patient135_frame10_slice3.png,216,256,patient135_frame10_gt_slice3.png,216,256,1,"{0: 52924, 85: 781, 170: 674, 255: 917}",0
+patient135_frame10_slice4.png,216,256,patient135_frame10_gt_slice4.png,216,256,1,"{0: 53160, 85: 603, 170: 661, 255: 872}",0
+patient135_frame10_slice5.png,216,256,patient135_frame10_gt_slice5.png,216,256,1,"{0: 53378, 85: 504, 170: 604, 255: 810}",0
+patient135_frame10_slice6.png,216,256,patient135_frame10_gt_slice6.png,216,256,1,"{0: 53506, 85: 500, 170: 622, 255: 668}",0
+patient135_frame10_slice7.png,216,256,patient135_frame10_gt_slice7.png,216,256,1,"{0: 54020, 85: 216, 170: 598, 255: 462}",0
+patient135_frame10_slice8.png,216,256,patient135_frame10_gt_slice8.png,216,256,1,"{0: 54357, 85: 112, 170: 483, 255: 344}",0
+patient135_frame10_slice9.png,216,256,patient135_frame10_gt_slice9.png,216,256,1,"{0: 54719, 170: 352, 255: 225}",0
+patient135_frame10_slice10.png,216,256,patient135_frame10_gt_slice10.png,216,256,1,"{0: 55016, 170: 233, 255: 47}",0
+patient136_frame01_slice1.png,256,216,patient136_frame01_gt_slice1.png,256,216,1,"{0: 53636, 170: 557, 255: 1103}",0
+patient136_frame01_slice2.png,256,216,patient136_frame01_gt_slice2.png,256,216,1,"{0: 52274, 85: 1212, 170: 687, 255: 1123}",0
+patient136_frame01_slice3.png,256,216,patient136_frame01_gt_slice3.png,256,216,1,"{0: 52118, 85: 1066, 170: 772, 255: 1340}",0
+patient136_frame01_slice4.png,256,216,patient136_frame01_gt_slice4.png,256,216,1,"{0: 52293, 85: 912, 170: 795, 255: 1296}",0
+patient136_frame01_slice5.png,256,216,patient136_frame01_gt_slice5.png,256,216,1,"{0: 52462, 85: 743, 170: 756, 255: 1335}",0
+patient136_frame01_slice6.png,256,216,patient136_frame01_gt_slice6.png,256,216,1,"{0: 52820, 85: 550, 170: 606, 255: 1320}",0
+patient136_frame01_slice7.png,256,216,patient136_frame01_gt_slice7.png,256,216,1,"{0: 53206, 85: 412, 170: 518, 255: 1160}",0
+patient136_frame01_slice8.png,256,216,patient136_frame01_gt_slice8.png,256,216,1,"{0: 53665, 85: 315, 170: 448, 255: 868}",0
+patient136_frame01_slice9.png,256,216,patient136_frame01_gt_slice9.png,256,216,1,"{0: 54253, 85: 115, 170: 341, 255: 587}",0
+patient136_frame01_slice10.png,256,216,patient136_frame01_gt_slice10.png,256,216,1,"{0: 54869, 170: 226, 255: 201}",0
+patient136_frame12_slice2.png,256,216,patient136_frame12_gt_slice2.png,256,216,1,"{0: 53819, 170: 603, 255: 874}",0
+patient136_frame12_slice3.png,256,216,patient136_frame12_gt_slice3.png,256,216,1,"{0: 52692, 85: 803, 170: 814, 255: 987}",0
+patient136_frame12_slice4.png,256,216,patient136_frame12_gt_slice4.png,256,216,1,"{0: 52669, 85: 731, 170: 716, 255: 1180}",0
+patient136_frame12_slice5.png,256,216,patient136_frame12_gt_slice5.png,256,216,1,"{0: 52755, 85: 584, 170: 827, 255: 1130}",0
+patient136_frame12_slice6.png,256,216,patient136_frame12_gt_slice6.png,256,216,1,"{0: 53047, 85: 459, 170: 691, 255: 1099}",0
+patient136_frame12_slice7.png,256,216,patient136_frame12_gt_slice7.png,256,216,1,"{0: 53452, 85: 258, 170: 654, 255: 932}",0
+patient136_frame12_slice8.png,256,216,patient136_frame12_gt_slice8.png,256,216,1,"{0: 53850, 85: 181, 170: 605, 255: 660}",0
+patient136_frame12_slice9.png,256,216,patient136_frame12_gt_slice9.png,256,216,1,"{0: 54314, 85: 139, 170: 504, 255: 339}",0
+patient136_frame12_slice10.png,256,216,patient136_frame12_gt_slice10.png,256,216,1,"{0: 55122, 170: 156, 255: 18}",0
+patient137_frame01_slice2.png,216,256,patient137_frame01_gt_slice2.png,216,256,1,"{0: 50252, 85: 2308, 170: 1028, 255: 1708}",0
+patient137_frame01_slice3.png,216,256,patient137_frame01_gt_slice3.png,216,256,1,"{0: 50335, 85: 2038, 170: 1103, 255: 1820}",0
+patient137_frame01_slice4.png,216,256,patient137_frame01_gt_slice4.png,216,256,1,"{0: 50918, 85: 1502, 170: 1138, 255: 1738}",0
+patient137_frame01_slice5.png,216,256,patient137_frame01_gt_slice5.png,216,256,1,"{0: 51666, 85: 994, 170: 1035, 255: 1601}",0
+patient137_frame01_slice6.png,216,256,patient137_frame01_gt_slice6.png,216,256,1,"{0: 52344, 85: 648, 170: 850, 255: 1454}",0
+patient137_frame01_slice7.png,216,256,patient137_frame01_gt_slice7.png,216,256,1,"{0: 52959, 85: 361, 170: 729, 255: 1247}",0
+patient137_frame01_slice8.png,216,256,patient137_frame01_gt_slice8.png,216,256,1,"{0: 53670, 85: 169, 170: 550, 255: 907}",0
+patient137_frame01_slice9.png,216,256,patient137_frame01_gt_slice9.png,216,256,1,"{0: 54539, 170: 376, 255: 381}",0
+patient137_frame11_slice2.png,216,256,patient137_frame11_gt_slice2.png,216,256,1,"{0: 53055, 170: 1002, 255: 1239}",0
+patient137_frame11_slice3.png,216,256,patient137_frame11_gt_slice3.png,216,256,1,"{0: 51057, 85: 1688, 170: 1162, 255: 1389}",0
+patient137_frame11_slice4.png,216,256,patient137_frame11_gt_slice4.png,216,256,1,"{0: 51294, 85: 1321, 170: 1299, 255: 1382}",0
+patient137_frame11_slice5.png,216,256,patient137_frame11_gt_slice5.png,216,256,1,"{0: 52010, 85: 805, 170: 1370, 255: 1111}",0
+patient137_frame11_slice6.png,216,256,patient137_frame11_gt_slice6.png,216,256,1,"{0: 52922, 85: 423, 170: 1255, 255: 696}",0
+patient137_frame11_slice7.png,216,256,patient137_frame11_gt_slice7.png,216,256,1,"{0: 53529, 85: 133, 170: 1159, 255: 475}",0
+patient137_frame11_slice8.png,216,256,patient137_frame11_gt_slice8.png,216,256,1,"{0: 54128, 85: 63, 170: 910, 255: 195}",0
+patient137_frame11_slice9.png,216,256,patient137_frame11_gt_slice9.png,216,256,1,"{0: 54878, 170: 391, 255: 27}",0
+patient138_frame01_slice1.png,216,256,patient138_frame01_gt_slice1.png,216,256,1,"{0: 53212, 170: 1236, 255: 848}",0
+patient138_frame01_slice2.png,216,256,patient138_frame01_gt_slice2.png,216,256,1,"{0: 51027, 85: 1829, 170: 1579, 255: 861}",0
+patient138_frame01_slice3.png,216,256,patient138_frame01_gt_slice3.png,216,256,1,"{0: 51144, 85: 1662, 170: 1468, 255: 1022}",0
+patient138_frame01_slice4.png,216,256,patient138_frame01_gt_slice4.png,216,256,1,"{0: 51465, 85: 1393, 170: 1313, 255: 1125}",0
+patient138_frame01_slice5.png,216,256,patient138_frame01_gt_slice5.png,216,256,1,"{0: 52006, 85: 1069, 170: 1145, 255: 1076}",0
+patient138_frame01_slice6.png,216,256,patient138_frame01_gt_slice6.png,216,256,1,"{0: 52801, 85: 566, 170: 1005, 255: 924}",0
+patient138_frame01_slice7.png,216,256,patient138_frame01_gt_slice7.png,216,256,1,"{0: 53541, 85: 183, 170: 810, 255: 762}",0
+patient138_frame01_slice8.png,216,256,patient138_frame01_gt_slice8.png,216,256,1,"{0: 54239, 170: 625, 255: 432}",0
+patient138_frame01_slice9.png,216,256,patient138_frame01_gt_slice9.png,216,256,1,"{0: 54806, 170: 376, 255: 114}",0
+patient138_frame10_slice1.png,216,256,patient138_frame10_gt_slice1.png,216,256,1,"{0: 53538, 170: 1228, 255: 530}",0
+patient138_frame10_slice2.png,216,256,patient138_frame10_gt_slice2.png,216,256,1,"{0: 53173, 170: 1734, 255: 389}",0
+patient138_frame10_slice3.png,216,256,patient138_frame10_gt_slice3.png,216,256,1,"{0: 51852, 85: 1283, 170: 1824, 255: 337}",0
+patient138_frame10_slice4.png,216,256,patient138_frame10_gt_slice4.png,216,256,1,"{0: 52051, 85: 1118, 170: 1792, 255: 335}",0
+patient138_frame10_slice5.png,216,256,patient138_frame10_gt_slice5.png,216,256,1,"{0: 52427, 85: 865, 170: 1748, 255: 256}",0
+patient138_frame10_slice6.png,216,256,patient138_frame10_gt_slice6.png,216,256,1,"{0: 53229, 85: 370, 170: 1529, 255: 168}",0
+patient138_frame10_slice7.png,216,256,patient138_frame10_gt_slice7.png,216,256,1,"{0: 53785, 85: 96, 170: 1302, 255: 113}",0
+patient138_frame10_slice8.png,216,256,patient138_frame10_gt_slice8.png,216,256,1,"{0: 54348, 170: 856, 255: 92}",0
+patient138_frame10_slice9.png,216,256,patient138_frame10_gt_slice9.png,216,256,1,"{0: 54885, 255: 411}",0
+patient139_frame01_slice1.png,174,208,patient139_frame01_gt_slice1.png,174,208,1,"{0: 34080, 85: 1153, 170: 418, 255: 541}",0
+patient139_frame01_slice2.png,174,208,patient139_frame01_gt_slice2.png,174,208,1,"{0: 33995, 85: 1162, 170: 435, 255: 600}",0
+patient139_frame01_slice3.png,174,208,patient139_frame01_gt_slice3.png,174,208,1,"{0: 33795, 85: 1065, 170: 485, 255: 847}",0
+patient139_frame01_slice4.png,174,208,patient139_frame01_gt_slice4.png,174,208,1,"{0: 33858, 85: 953, 170: 492, 255: 889}",0
+patient139_frame01_slice5.png,174,208,patient139_frame01_gt_slice5.png,174,208,1,"{0: 33949, 85: 929, 170: 467, 255: 847}",0
+patient139_frame01_slice6.png,174,208,patient139_frame01_gt_slice6.png,174,208,1,"{0: 33988, 85: 821, 170: 450, 255: 933}",0
+patient139_frame01_slice7.png,174,208,patient139_frame01_gt_slice7.png,174,208,1,"{0: 34181, 85: 703, 170: 438, 255: 870}",0
+patient139_frame01_slice8.png,174,208,patient139_frame01_gt_slice8.png,174,208,1,"{0: 34260, 85: 601, 170: 416, 255: 915}",0
+patient139_frame01_slice9.png,174,208,patient139_frame01_gt_slice9.png,174,208,1,"{0: 34541, 85: 498, 170: 389, 255: 764}",0
+patient139_frame01_slice10.png,174,208,patient139_frame01_gt_slice10.png,174,208,1,"{0: 34621, 85: 446, 170: 355, 255: 770}",0
+patient139_frame01_slice11.png,174,208,patient139_frame01_gt_slice11.png,174,208,1,"{0: 34941, 85: 383, 170: 280, 255: 588}",0
+patient139_frame01_slice12.png,174,208,patient139_frame01_gt_slice12.png,174,208,1,"{0: 34951, 85: 362, 170: 339, 255: 540}",0
+patient139_frame01_slice13.png,174,208,patient139_frame01_gt_slice13.png,174,208,1,"{0: 35182, 85: 321, 170: 300, 255: 389}",0
+patient139_frame01_slice14.png,174,208,patient139_frame01_gt_slice14.png,174,208,1,"{0: 35335, 85: 257, 170: 263, 255: 337}",0
+patient139_frame01_slice15.png,174,208,patient139_frame01_gt_slice15.png,174,208,1,"{0: 35639, 85: 172, 170: 225, 255: 156}",0
+patient139_frame01_slice16.png,174,208,patient139_frame01_gt_slice16.png,174,208,1,"{0: 35725, 85: 140, 170: 198, 255: 129}",0
+patient139_frame08_slice3.png,174,208,patient139_frame08_gt_slice3.png,174,208,1,"{0: 34666, 85: 775, 170: 390, 255: 361}",0
+patient139_frame08_slice4.png,174,208,patient139_frame08_gt_slice4.png,174,208,1,"{0: 34650, 85: 732, 170: 453, 255: 357}",0
+patient139_frame08_slice5.png,174,208,patient139_frame08_gt_slice5.png,174,208,1,"{0: 34618, 85: 664, 170: 583, 255: 327}",0
+patient139_frame08_slice6.png,174,208,patient139_frame08_gt_slice6.png,174,208,1,"{0: 34539, 85: 674, 170: 583, 255: 396}",0
+patient139_frame08_slice7.png,174,208,patient139_frame08_gt_slice7.png,174,208,1,"{0: 34652, 85: 535, 170: 593, 255: 412}",0
+patient139_frame08_slice8.png,174,208,patient139_frame08_gt_slice8.png,174,208,1,"{0: 34701, 85: 455, 170: 576, 255: 460}",0
+patient139_frame08_slice9.png,174,208,patient139_frame08_gt_slice9.png,174,208,1,"{0: 34934, 85: 330, 170: 591, 255: 337}",0
+patient139_frame08_slice10.png,174,208,patient139_frame08_gt_slice10.png,174,208,1,"{0: 35032, 85: 275, 170: 573, 255: 312}",0
+patient139_frame08_slice11.png,174,208,patient139_frame08_gt_slice11.png,174,208,1,"{0: 35269, 85: 212, 170: 471, 255: 240}",0
+patient139_frame08_slice12.png,174,208,patient139_frame08_gt_slice12.png,174,208,1,"{0: 35328, 85: 229, 170: 422, 255: 213}",0
+patient139_frame08_slice13.png,174,208,patient139_frame08_gt_slice13.png,174,208,1,"{0: 35546, 85: 160, 170: 344, 255: 142}",0
+patient139_frame08_slice14.png,174,208,patient139_frame08_gt_slice14.png,174,208,1,"{0: 35662, 85: 123, 170: 307, 255: 100}",0
+patient139_frame08_slice15.png,174,208,patient139_frame08_gt_slice15.png,174,208,1,"{0: 35933, 85: 84, 170: 153, 255: 22}",0
+patient139_frame08_slice16.png,174,208,patient139_frame08_gt_slice16.png,174,208,1,"{0: 35972, 85: 54, 170: 150, 255: 16}",0
+patient140_frame01_slice2.png,174,208,patient140_frame01_gt_slice2.png,174,208,1,"{0: 32880, 85: 2350, 170: 434, 255: 528}",0
+patient140_frame01_slice3.png,174,208,patient140_frame01_gt_slice3.png,174,208,1,"{0: 32647, 85: 2420, 170: 418, 255: 707}",0
+patient140_frame01_slice4.png,174,208,patient140_frame01_gt_slice4.png,174,208,1,"{0: 32573, 85: 2388, 170: 412, 255: 819}",0
+patient140_frame01_slice5.png,174,208,patient140_frame01_gt_slice5.png,174,208,1,"{0: 32650, 85: 2330, 170: 369, 255: 843}",0
+patient140_frame01_slice6.png,174,208,patient140_frame01_gt_slice6.png,174,208,1,"{0: 32716, 85: 2217, 170: 398, 255: 861}",0
+patient140_frame01_slice7.png,174,208,patient140_frame01_gt_slice7.png,174,208,1,"{0: 32857, 85: 2119, 170: 385, 255: 831}",0
+patient140_frame01_slice8.png,174,208,patient140_frame01_gt_slice8.png,174,208,1,"{0: 33054, 85: 1933, 170: 399, 255: 806}",0
+patient140_frame01_slice9.png,174,208,patient140_frame01_gt_slice9.png,174,208,1,"{0: 33290, 85: 1759, 170: 415, 255: 728}",0
+patient140_frame01_slice10.png,174,208,patient140_frame01_gt_slice10.png,174,208,1,"{0: 33448, 85: 1653, 170: 378, 255: 713}",0
+patient140_frame01_slice11.png,174,208,patient140_frame01_gt_slice11.png,174,208,1,"{0: 33715, 85: 1497, 170: 342, 255: 638}",0
+patient140_frame01_slice12.png,174,208,patient140_frame01_gt_slice12.png,174,208,1,"{0: 33891, 85: 1392, 170: 301, 255: 608}",0
+patient140_frame01_slice13.png,174,208,patient140_frame01_gt_slice13.png,174,208,1,"{0: 34183, 85: 1208, 170: 259, 255: 542}",0
+patient140_frame01_slice14.png,174,208,patient140_frame01_gt_slice14.png,174,208,1,"{0: 34340, 85: 1113, 170: 230, 255: 509}",0
+patient140_frame01_slice15.png,174,208,patient140_frame01_gt_slice15.png,174,208,1,"{0: 34594, 85: 963, 170: 247, 255: 388}",0
+patient140_frame01_slice16.png,174,208,patient140_frame01_gt_slice16.png,174,208,1,"{0: 34828, 85: 856, 170: 195, 255: 313}",0
+patient140_frame01_slice17.png,174,208,patient140_frame01_gt_slice17.png,174,208,1,"{0: 35058, 85: 712, 170: 177, 255: 245}",0
+patient140_frame01_slice18.png,174,208,patient140_frame01_gt_slice18.png,174,208,1,"{0: 35310, 85: 592, 170: 143, 255: 147}",0
+patient140_frame01_slice19.png,174,208,patient140_frame01_gt_slice19.png,174,208,1,"{0: 35627, 85: 413, 170: 102, 255: 50}",0
+patient140_frame01_slice20.png,174,208,patient140_frame01_gt_slice20.png,174,208,1,"{0: 35942, 255: 250}",0
+patient140_frame09_slice3.png,174,208,patient140_frame09_gt_slice3.png,174,208,1,"{0: 34833, 255: 1359}",0
+patient140_frame09_slice4.png,174,208,patient140_frame09_gt_slice4.png,174,208,1,"{0: 33791, 85: 1697, 170: 322, 255: 382}",0
+patient140_frame09_slice5.png,174,208,patient140_frame09_gt_slice5.png,174,208,1,"{0: 33481, 85: 2008, 170: 421, 255: 282}",0
+patient140_frame09_slice6.png,174,208,patient140_frame09_gt_slice6.png,174,208,1,"{0: 33496, 85: 1894, 170: 506, 255: 296}",0
+patient140_frame09_slice7.png,174,208,patient140_frame09_gt_slice7.png,174,208,1,"{0: 33612, 85: 1717, 170: 508, 255: 355}",0
+patient140_frame09_slice8.png,174,208,patient140_frame09_gt_slice8.png,174,208,1,"{0: 33800, 85: 1474, 170: 458, 255: 460}",0
+patient140_frame09_slice9.png,174,208,patient140_frame09_gt_slice9.png,174,208,1,"{0: 33974, 85: 1270, 170: 502, 255: 446}",0
+patient140_frame09_slice10.png,174,208,patient140_frame09_gt_slice10.png,174,208,1,"{0: 34224, 85: 1023, 170: 509, 255: 436}",0
+patient140_frame09_slice11.png,174,208,patient140_frame09_gt_slice11.png,174,208,1,"{0: 34395, 85: 919, 170: 494, 255: 384}",0
+patient140_frame09_slice12.png,174,208,patient140_frame09_gt_slice12.png,174,208,1,"{0: 34566, 85: 816, 170: 452, 255: 358}",0
+patient140_frame09_slice13.png,174,208,patient140_frame09_gt_slice13.png,174,208,1,"{0: 34805, 85: 691, 170: 370, 255: 326}",0
+patient140_frame09_slice14.png,174,208,patient140_frame09_gt_slice14.png,174,208,1,"{0: 34933, 85: 643, 170: 313, 255: 303}",0
+patient140_frame09_slice15.png,174,208,patient140_frame09_gt_slice15.png,174,208,1,"{0: 35179, 85: 493, 170: 309, 255: 211}",0
+patient140_frame09_slice16.png,174,208,patient140_frame09_gt_slice16.png,174,208,1,"{0: 35337, 85: 418, 170: 259, 255: 178}",0
+patient140_frame09_slice17.png,174,208,patient140_frame09_gt_slice17.png,174,208,1,"{0: 35557, 85: 334, 170: 217, 255: 84}",0
+patient140_frame09_slice18.png,174,208,patient140_frame09_gt_slice18.png,174,208,1,"{0: 35759, 85: 243, 170: 149, 255: 41}",0
+patient140_frame09_slice19.png,174,208,patient140_frame09_gt_slice19.png,174,208,1,"{0: 36101, 255: 91}",0
+patient140_frame09_slice20.png,174,208,patient140_frame09_gt_slice20.png,174,208,1,"{0: 36184, 255: 8}",0
+patient141_frame01_slice2.png,256,216,patient141_frame01_gt_slice2.png,256,216,1,"{0: 50478, 85: 3108, 170: 828, 255: 882}",0
+patient141_frame01_slice3.png,256,216,patient141_frame01_gt_slice3.png,256,216,1,"{0: 50493, 85: 2956, 170: 847, 255: 1000}",0
+patient141_frame01_slice4.png,256,216,patient141_frame01_gt_slice4.png,256,216,1,"{0: 50608, 85: 2778, 170: 781, 255: 1129}",0
+patient141_frame01_slice5.png,256,216,patient141_frame01_gt_slice5.png,256,216,1,"{0: 51024, 85: 2462, 170: 695, 255: 1115}",0
+patient141_frame01_slice6.png,256,216,patient141_frame01_gt_slice6.png,256,216,1,"{0: 51593, 85: 2060, 170: 683, 255: 960}",0
+patient141_frame01_slice7.png,256,216,patient141_frame01_gt_slice7.png,256,216,1,"{0: 52170, 85: 1850, 170: 529, 255: 747}",0
+patient141_frame01_slice8.png,256,216,patient141_frame01_gt_slice8.png,256,216,1,"{0: 52878, 85: 1547, 170: 375, 255: 496}",0
+patient141_frame01_slice9.png,256,216,patient141_frame01_gt_slice9.png,256,216,1,"{0: 53773, 85: 1105, 170: 249, 255: 169}",0
+patient141_frame01_slice10.png,256,216,patient141_frame01_gt_slice10.png,256,216,1,"{0: 54972, 255: 324}",0
+patient141_frame11_slice3.png,256,216,patient141_frame11_gt_slice3.png,256,216,1,"{0: 52351, 85: 1730, 170: 761, 255: 454}",0
+patient141_frame11_slice4.png,256,216,patient141_frame11_gt_slice4.png,256,216,1,"{0: 52107, 85: 1762, 170: 1067, 255: 360}",0
+patient141_frame11_slice5.png,256,216,patient141_frame11_gt_slice5.png,256,216,1,"{0: 52345, 85: 1563, 170: 968, 255: 420}",0
+patient141_frame11_slice6.png,256,216,patient141_frame11_gt_slice6.png,256,216,1,"{0: 52786, 85: 1288, 170: 797, 255: 425}",0
+patient141_frame11_slice7.png,256,216,patient141_frame11_gt_slice7.png,256,216,1,"{0: 53317, 85: 1021, 170: 660, 255: 298}",0
+patient141_frame11_slice8.png,256,216,patient141_frame11_gt_slice8.png,256,216,1,"{0: 53867, 85: 808, 170: 488, 255: 133}",0
+patient141_frame11_slice9.png,256,216,patient141_frame11_gt_slice9.png,256,216,1,"{0: 54795, 85: 272, 170: 210, 255: 19}",0
+patient141_frame11_slice10.png,256,216,patient141_frame11_gt_slice10.png,256,216,1,"{0: 55103, 255: 193}",0
+patient142_frame01_slice1.png,216,256,patient142_frame01_gt_slice1.png,216,256,1,"{0: 51987, 85: 1506, 170: 961, 255: 842}",0
+patient142_frame01_slice2.png,216,256,patient142_frame01_gt_slice2.png,216,256,1,"{0: 51688, 85: 1632, 170: 1215, 255: 761}",0
+patient142_frame01_slice3.png,216,256,patient142_frame01_gt_slice3.png,216,256,1,"{0: 51932, 85: 1424, 170: 1026, 255: 914}",0
+patient142_frame01_slice4.png,216,256,patient142_frame01_gt_slice4.png,216,256,1,"{0: 52308, 85: 1210, 170: 925, 255: 853}",0
+patient142_frame01_slice5.png,216,256,patient142_frame01_gt_slice5.png,216,256,1,"{0: 52834, 85: 858, 170: 743, 255: 861}",0
+patient142_frame01_slice6.png,216,256,patient142_frame01_gt_slice6.png,216,256,1,"{0: 53254, 85: 642, 170: 646, 255: 754}",0
+patient142_frame01_slice7.png,216,256,patient142_frame01_gt_slice7.png,216,256,1,"{0: 53894, 85: 431, 170: 463, 255: 508}",0
+patient142_frame01_slice8.png,216,256,patient142_frame01_gt_slice8.png,216,256,1,"{0: 54373, 85: 214, 170: 421, 255: 288}",0
+patient142_frame12_slice2.png,216,256,patient142_frame12_gt_slice2.png,216,256,1,"{0: 53829, 170: 1127, 255: 340}",0
+patient142_frame12_slice3.png,216,256,patient142_frame12_gt_slice3.png,216,256,1,"{0: 52719, 85: 1014, 170: 1295, 255: 268}",0
+patient142_frame12_slice4.png,216,256,patient142_frame12_gt_slice4.png,216,256,1,"{0: 52748, 85: 865, 170: 1460, 255: 223}",0
+patient142_frame12_slice5.png,216,256,patient142_frame12_gt_slice5.png,216,256,1,"{0: 53339, 85: 545, 170: 1294, 255: 118}",0
+patient142_frame12_slice6.png,216,256,patient142_frame12_gt_slice6.png,216,256,1,"{0: 53725, 85: 346, 170: 1135, 255: 90}",0
+patient142_frame12_slice7.png,216,256,patient142_frame12_gt_slice7.png,216,256,1,"{0: 54333, 85: 183, 170: 753, 255: 27}",0
+patient142_frame12_slice8.png,216,256,patient142_frame12_gt_slice8.png,216,256,1,"{0: 54691, 255: 605}",0
+patient143_frame01_slice1.png,256,216,patient143_frame01_gt_slice1.png,256,216,1,"{0: 52695, 170: 914, 255: 1687}",0
+patient143_frame01_slice2.png,256,216,patient143_frame01_gt_slice2.png,256,216,1,"{0: 50521, 85: 1843, 170: 1002, 255: 1930}",0
+patient143_frame01_slice3.png,256,216,patient143_frame01_gt_slice3.png,256,216,1,"{0: 50635, 85: 1711, 170: 1171, 255: 1779}",0
+patient143_frame01_slice4.png,256,216,patient143_frame01_gt_slice4.png,256,216,1,"{0: 50830, 85: 1560, 170: 1117, 255: 1789}",0
+patient143_frame01_slice5.png,256,216,patient143_frame01_gt_slice5.png,256,216,1,"{0: 51315, 85: 1228, 170: 1012, 255: 1741}",0
+patient143_frame01_slice6.png,256,216,patient143_frame01_gt_slice6.png,256,216,1,"{0: 52090, 85: 770, 170: 905, 255: 1531}",0
+patient143_frame01_slice7.png,256,216,patient143_frame01_gt_slice7.png,256,216,1,"{0: 52669, 85: 527, 170: 738, 255: 1362}",0
+patient143_frame01_slice8.png,256,216,patient143_frame01_gt_slice8.png,256,216,1,"{0: 53311, 85: 360, 170: 610, 255: 1015}",0
+patient143_frame01_slice9.png,256,216,patient143_frame01_gt_slice9.png,256,216,1,"{0: 53922, 85: 185, 170: 428, 255: 761}",0
+patient143_frame01_slice10.png,256,216,patient143_frame01_gt_slice10.png,256,216,1,"{0: 54953, 170: 268, 255: 75}",0
+patient143_frame12_slice1.png,256,216,patient143_frame12_gt_slice1.png,256,216,1,"{0: 53261, 170: 798, 255: 1237}",0
+patient143_frame12_slice2.png,256,216,patient143_frame12_gt_slice2.png,256,216,1,"{0: 52801, 170: 908, 255: 1587}",0
+patient143_frame12_slice3.png,256,216,patient143_frame12_gt_slice3.png,256,216,1,"{0: 51449, 85: 1203, 170: 1167, 255: 1477}",0
+patient143_frame12_slice4.png,256,216,patient143_frame12_gt_slice4.png,256,216,1,"{0: 51658, 85: 991, 170: 1251, 255: 1396}",0
+patient143_frame12_slice5.png,256,216,patient143_frame12_gt_slice5.png,256,216,1,"{0: 52127, 85: 578, 170: 1248, 255: 1343}",0
+patient143_frame12_slice6.png,256,216,patient143_frame12_gt_slice6.png,256,216,1,"{0: 52774, 85: 317, 170: 1089, 255: 1116}",0
+patient143_frame12_slice7.png,256,216,patient143_frame12_gt_slice7.png,256,216,1,"{0: 53230, 85: 187, 170: 951, 255: 928}",0
+patient143_frame12_slice8.png,256,216,patient143_frame12_gt_slice8.png,256,216,1,"{0: 53782, 85: 58, 170: 825, 255: 631}",0
+patient143_frame12_slice9.png,256,216,patient143_frame12_gt_slice9.png,256,216,1,"{0: 54236, 85: 25, 170: 582, 255: 453}",0
+patient143_frame12_slice10.png,256,216,patient143_frame12_gt_slice10.png,256,216,1,"{0: 54908, 170: 325, 255: 63}",0
+patient144_frame01_slice1.png,214,256,patient144_frame01_gt_slice1.png,214,256,1,"{0: 53351, 170: 538, 255: 895}",0
+patient144_frame01_slice2.png,214,256,patient144_frame01_gt_slice2.png,214,256,1,"{0: 51831, 85: 1229, 170: 666, 255: 1058}",0
+patient144_frame01_slice3.png,214,256,patient144_frame01_gt_slice3.png,214,256,1,"{0: 51996, 85: 1087, 170: 704, 255: 997}",0
+patient144_frame01_slice4.png,214,256,patient144_frame01_gt_slice4.png,214,256,1,"{0: 52456, 85: 868, 170: 569, 255: 891}",0
+patient144_frame01_slice5.png,214,256,patient144_frame01_gt_slice5.png,214,256,1,"{0: 52801, 85: 721, 170: 507, 255: 755}",0
+patient144_frame01_slice6.png,214,256,patient144_frame01_gt_slice6.png,214,256,1,"{0: 53286, 85: 541, 170: 427, 255: 530}",0
+patient144_frame01_slice7.png,214,256,patient144_frame01_gt_slice7.png,214,256,1,"{0: 53761, 85: 356, 170: 316, 255: 351}",0
+patient144_frame01_slice8.png,214,256,patient144_frame01_gt_slice8.png,214,256,1,"{0: 54340, 85: 97, 170: 233, 255: 114}",0
+patient144_frame09_slice2.png,214,256,patient144_frame09_gt_slice2.png,214,256,1,"{0: 53099, 85: 499, 170: 796, 255: 390}",0
+patient144_frame09_slice3.png,214,256,patient144_frame09_gt_slice3.png,214,256,1,"{0: 52821, 85: 668, 170: 893, 255: 402}",0
+patient144_frame09_slice4.png,214,256,patient144_frame09_gt_slice4.png,214,256,1,"{0: 52982, 85: 594, 170: 835, 255: 373}",0
+patient144_frame09_slice5.png,214,256,patient144_frame09_gt_slice5.png,214,256,1,"{0: 53298, 85: 482, 170: 697, 255: 307}",0
+patient144_frame09_slice6.png,214,256,patient144_frame09_gt_slice6.png,214,256,1,"{0: 53885, 85: 196, 170: 564, 255: 139}",0
+patient144_frame09_slice7.png,214,256,patient144_frame09_gt_slice7.png,214,256,1,"{0: 54264, 85: 91, 170: 400, 255: 29}",0
+patient144_frame09_slice8.png,214,256,patient144_frame09_gt_slice8.png,214,256,1,"{0: 54676, 255: 108}",0
+patient145_frame01_slice1.png,232,256,patient145_frame01_gt_slice1.png,232,256,1,"{0: 57646, 170: 809, 255: 937}",0
+patient145_frame01_slice2.png,232,256,patient145_frame01_gt_slice2.png,232,256,1,"{0: 56730, 85: 743, 170: 941, 255: 978}",0
+patient145_frame01_slice3.png,232,256,patient145_frame01_gt_slice3.png,232,256,1,"{0: 56678, 85: 776, 170: 1028, 255: 910}",0
+patient145_frame01_slice4.png,232,256,patient145_frame01_gt_slice4.png,232,256,1,"{0: 56720, 85: 737, 170: 1036, 255: 899}",0
+patient145_frame01_slice5.png,232,256,patient145_frame01_gt_slice5.png,232,256,1,"{0: 57044, 85: 604, 170: 886, 255: 858}",0
+patient145_frame01_slice6.png,232,256,patient145_frame01_gt_slice6.png,232,256,1,"{0: 57598, 85: 165, 170: 647, 255: 982}",0
+patient145_frame01_slice7.png,232,256,patient145_frame01_gt_slice7.png,232,256,1,"{0: 57952, 85: 148, 170: 624, 255: 668}",0
+patient145_frame01_slice8.png,232,256,patient145_frame01_gt_slice8.png,232,256,1,"{0: 58321, 85: 45, 170: 587, 255: 439}",0
+patient145_frame01_slice9.png,232,256,patient145_frame01_gt_slice9.png,232,256,1,"{0: 58739, 170: 389, 255: 264}",0
+patient145_frame13_slice1.png,232,256,patient145_frame13_gt_slice1.png,232,256,1,"{0: 57920, 170: 660, 255: 812}",0
+patient145_frame13_slice2.png,232,256,patient145_frame13_gt_slice2.png,232,256,1,"{0: 57599, 170: 873, 255: 920}",0
+patient145_frame13_slice3.png,232,256,patient145_frame13_gt_slice3.png,232,256,1,"{0: 56773, 85: 643, 170: 1057, 255: 919}",0
+patient145_frame13_slice4.png,232,256,patient145_frame13_gt_slice4.png,232,256,1,"{0: 56857, 85: 581, 170: 1023, 255: 931}",0
+patient145_frame13_slice5.png,232,256,patient145_frame13_gt_slice5.png,232,256,1,"{0: 57321, 85: 391, 170: 1019, 255: 661}",0
+patient145_frame13_slice6.png,232,256,patient145_frame13_gt_slice6.png,232,256,1,"{0: 57730, 85: 212, 170: 855, 255: 595}",0
+patient145_frame13_slice7.png,232,256,patient145_frame13_gt_slice7.png,232,256,1,"{0: 58063, 85: 72, 170: 838, 255: 419}",0
+patient145_frame13_slice8.png,232,256,patient145_frame13_gt_slice8.png,232,256,1,"{0: 58391, 170: 780, 255: 221}",0
+patient145_frame13_slice9.png,232,256,patient145_frame13_gt_slice9.png,232,256,1,"{0: 58744, 170: 544, 255: 104}",0
+patient146_frame01_slice1.png,232,256,patient146_frame01_gt_slice1.png,232,256,1,"{0: 57535, 170: 931, 255: 926}",0
+patient146_frame01_slice2.png,232,256,patient146_frame01_gt_slice2.png,232,256,1,"{0: 55672, 85: 1619, 170: 1017, 255: 1084}",0
+patient146_frame01_slice3.png,232,256,patient146_frame01_gt_slice3.png,232,256,1,"{0: 55856, 85: 1480, 170: 1032, 255: 1024}",0
+patient146_frame01_slice4.png,232,256,patient146_frame01_gt_slice4.png,232,256,1,"{0: 56315, 85: 1141, 170: 951, 255: 985}",0
+patient146_frame01_slice5.png,232,256,patient146_frame01_gt_slice5.png,232,256,1,"{0: 56753, 85: 964, 170: 739, 255: 936}",0
+patient146_frame01_slice6.png,232,256,patient146_frame01_gt_slice6.png,232,256,1,"{0: 57313, 85: 679, 170: 644, 255: 756}",0
+patient146_frame01_slice7.png,232,256,patient146_frame01_gt_slice7.png,232,256,1,"{0: 57712, 85: 505, 170: 580, 255: 595}",0
+patient146_frame01_slice8.png,232,256,patient146_frame01_gt_slice8.png,232,256,1,"{0: 58377, 85: 286, 170: 408, 255: 321}",0
+patient146_frame01_slice9.png,232,256,patient146_frame01_gt_slice9.png,232,256,1,"{0: 59119, 85: 39, 170: 217, 255: 17}",0
+patient146_frame10_slice2.png,232,256,patient146_frame10_gt_slice2.png,232,256,1,"{0: 57950, 170: 1092, 255: 350}",0
+patient146_frame10_slice3.png,232,256,patient146_frame10_gt_slice3.png,232,256,1,"{0: 56915, 85: 907, 170: 1310, 255: 260}",0
+patient146_frame10_slice4.png,232,256,patient146_frame10_gt_slice4.png,232,256,1,"{0: 57154, 85: 594, 170: 1425, 255: 219}",0
+patient146_frame10_slice5.png,232,256,patient146_frame10_gt_slice5.png,232,256,1,"{0: 57516, 85: 408, 170: 1269, 255: 199}",0
+patient146_frame10_slice6.png,232,256,patient146_frame10_gt_slice6.png,232,256,1,"{0: 57918, 85: 257, 170: 1085, 255: 132}",0
+patient146_frame10_slice7.png,232,256,patient146_frame10_gt_slice7.png,232,256,1,"{0: 58291, 85: 178, 170: 844, 255: 79}",0
+patient146_frame10_slice8.png,232,256,patient146_frame10_gt_slice8.png,232,256,1,"{0: 58732, 85: 57, 170: 569, 255: 34}",0
+patient146_frame10_slice9.png,232,256,patient146_frame10_gt_slice9.png,232,256,1,"{0: 59220, 255: 172}",0
+patient147_frame01_slice1.png,232,288,patient147_frame01_gt_slice1.png,232,288,1,"{0: 63515, 85: 1940, 170: 572, 255: 789}",0
+patient147_frame01_slice2.png,232,288,patient147_frame01_gt_slice2.png,232,288,1,"{0: 63331, 85: 2077, 170: 684, 255: 724}",0
+patient147_frame01_slice3.png,232,288,patient147_frame01_gt_slice3.png,232,288,1,"{0: 63430, 85: 2023, 170: 635, 255: 728}",0
+patient147_frame01_slice4.png,232,288,patient147_frame01_gt_slice4.png,232,288,1,"{0: 63466, 85: 2031, 170: 614, 255: 705}",0
+patient147_frame01_slice5.png,232,288,patient147_frame01_gt_slice5.png,232,288,1,"{0: 63578, 85: 1951, 170: 592, 255: 695}",0
+patient147_frame01_slice6.png,232,288,patient147_frame01_gt_slice6.png,232,288,1,"{0: 63775, 85: 1826, 170: 534, 255: 681}",0
+patient147_frame01_slice7.png,232,288,patient147_frame01_gt_slice7.png,232,288,1,"{0: 63978, 85: 1658, 170: 542, 255: 638}",0
+patient147_frame01_slice8.png,232,288,patient147_frame01_gt_slice8.png,232,288,1,"{0: 64287, 85: 1411, 170: 462, 255: 656}",0
+patient147_frame01_slice9.png,232,288,patient147_frame01_gt_slice9.png,232,288,1,"{0: 64449, 85: 1304, 170: 446, 255: 617}",0
+patient147_frame01_slice10.png,232,288,patient147_frame01_gt_slice10.png,232,288,1,"{0: 64632, 85: 1177, 170: 414, 255: 593}",0
+patient147_frame01_slice11.png,232,288,patient147_frame01_gt_slice11.png,232,288,1,"{0: 65046, 85: 942, 170: 339, 255: 489}",0
+patient147_frame01_slice12.png,232,288,patient147_frame01_gt_slice12.png,232,288,1,"{0: 65198, 85: 881, 170: 342, 255: 395}",0
+patient147_frame01_slice13.png,232,288,patient147_frame01_gt_slice13.png,232,288,1,"{0: 65718, 85: 591, 170: 260, 255: 247}",0
+patient147_frame01_slice14.png,232,288,patient147_frame01_gt_slice14.png,232,288,1,"{0: 65914, 85: 482, 170: 276, 255: 144}",0
+patient147_frame01_slice15.png,232,288,patient147_frame01_gt_slice15.png,232,288,1,"{0: 66402, 127: 231, 255: 183}",0
+patient147_frame09_slice1.png,232,288,patient147_frame09_gt_slice1.png,232,288,1,"{0: 65822, 170: 546, 255: 448}",0
+patient147_frame09_slice2.png,232,288,patient147_frame09_gt_slice2.png,232,288,1,"{0: 65757, 170: 745, 255: 314}",0
+patient147_frame09_slice3.png,232,288,patient147_frame09_gt_slice3.png,232,288,1,"{0: 64468, 85: 1280, 170: 797, 255: 271}",0
+patient147_frame09_slice4.png,232,288,patient147_frame09_gt_slice4.png,232,288,1,"{0: 64388, 85: 1324, 170: 882, 255: 222}",0
+patient147_frame09_slice5.png,232,288,patient147_frame09_gt_slice5.png,232,288,1,"{0: 64506, 85: 1244, 170: 894, 255: 172}",0
+patient147_frame09_slice6.png,232,288,patient147_frame09_gt_slice6.png,232,288,1,"{0: 64556, 85: 1266, 170: 832, 255: 162}",0
+patient147_frame09_slice7.png,232,288,patient147_frame09_gt_slice7.png,232,288,1,"{0: 64704, 85: 1183, 170: 796, 255: 133}",0
+patient147_frame09_slice8.png,232,288,patient147_frame09_gt_slice8.png,232,288,1,"{0: 65027, 85: 1076, 170: 587, 255: 126}",0
+patient147_frame09_slice9.png,232,288,patient147_frame09_gt_slice9.png,232,288,1,"{0: 65079, 85: 939, 170: 675, 255: 123}",0
+patient147_frame09_slice10.png,232,288,patient147_frame09_gt_slice10.png,232,288,1,"{0: 65232, 85: 859, 170: 610, 255: 115}",0
+patient147_frame09_slice11.png,232,288,patient147_frame09_gt_slice11.png,232,288,1,"{0: 65537, 85: 621, 170: 553, 255: 105}",0
+patient147_frame09_slice12.png,232,288,patient147_frame09_gt_slice12.png,232,288,1,"{0: 65700, 85: 561, 170: 498, 255: 57}",0
+patient147_frame09_slice13.png,232,288,patient147_frame09_gt_slice13.png,232,288,1,"{0: 66200, 127: 301, 255: 315}",0
+patient147_frame09_slice14.png,232,288,patient147_frame09_gt_slice14.png,232,288,1,"{0: 66474, 127: 159, 255: 183}",0
+patient148_frame01_slice1.png,192,256,patient148_frame01_gt_slice1.png,192,256,1,"{0: 45428, 85: 1536, 170: 872, 255: 1316}",0
+patient148_frame01_slice2.png,192,256,patient148_frame01_gt_slice2.png,192,256,1,"{0: 45869, 85: 1255, 170: 782, 255: 1246}",0
+patient148_frame01_slice3.png,192,256,patient148_frame01_gt_slice3.png,192,256,1,"{0: 46335, 85: 903, 170: 757, 255: 1157}",0
+patient148_frame01_slice4.png,192,256,patient148_frame01_gt_slice4.png,192,256,1,"{0: 46753, 85: 628, 170: 692, 255: 1079}",0
+patient148_frame01_slice5.png,192,256,patient148_frame01_gt_slice5.png,192,256,1,"{0: 47287, 85: 445, 170: 540, 255: 880}",0
+patient148_frame01_slice6.png,192,256,patient148_frame01_gt_slice6.png,192,256,1,"{0: 47674, 85: 366, 170: 475, 255: 637}",0
+patient148_frame01_slice7.png,192,256,patient148_frame01_gt_slice7.png,192,256,1,"{0: 48565, 170: 338, 255: 249}",0
+patient148_frame10_slice1.png,192,256,patient148_frame10_gt_slice1.png,192,256,1,"{0: 46204, 85: 1237, 170: 1032, 255: 679}",0
+patient148_frame10_slice2.png,192,256,patient148_frame10_gt_slice2.png,192,256,1,"{0: 46459, 85: 928, 170: 1077, 255: 688}",0
+patient148_frame10_slice3.png,192,256,patient148_frame10_gt_slice3.png,192,256,1,"{0: 46847, 85: 651, 170: 897, 255: 757}",0
+patient148_frame10_slice4.png,192,256,patient148_frame10_gt_slice4.png,192,256,1,"{0: 47260, 85: 311, 170: 756, 255: 825}",0
+patient148_frame10_slice5.png,192,256,patient148_frame10_gt_slice5.png,192,256,1,"{0: 47625, 85: 142, 170: 582, 255: 803}",0
+patient148_frame10_slice6.png,192,256,patient148_frame10_gt_slice6.png,192,256,1,"{0: 48012, 85: 198, 170: 341, 255: 601}",0
+patient148_frame10_slice7.png,192,256,patient148_frame10_gt_slice7.png,192,256,1,"{0: 48519, 170: 379, 255: 254}",0
+patient149_frame01_slice1.png,214,256,patient149_frame01_gt_slice1.png,214,256,1,"{0: 50530, 85: 2243, 170: 664, 255: 1347}",0
+patient149_frame01_slice2.png,214,256,patient149_frame01_gt_slice2.png,214,256,1,"{0: 50468, 85: 1920, 170: 822, 255: 1574}",0
+patient149_frame01_slice3.png,214,256,patient149_frame01_gt_slice3.png,214,256,1,"{0: 50546, 85: 1705, 170: 923, 255: 1610}",0
+patient149_frame01_slice4.png,214,256,patient149_frame01_gt_slice4.png,214,256,1,"{0: 50897, 85: 1471, 170: 879, 255: 1537}",0
+patient149_frame01_slice5.png,214,256,patient149_frame01_gt_slice5.png,214,256,1,"{0: 51687, 85: 889, 170: 738, 255: 1470}",0
+patient149_frame01_slice6.png,214,256,patient149_frame01_gt_slice6.png,214,256,1,"{0: 52221, 85: 616, 170: 789, 255: 1158}",0
+patient149_frame01_slice7.png,214,256,patient149_frame01_gt_slice7.png,214,256,1,"{0: 52842, 85: 419, 170: 597, 255: 926}",0
+patient149_frame01_slice8.png,214,256,patient149_frame01_gt_slice8.png,214,256,1,"{0: 53199, 85: 307, 170: 550, 255: 728}",0
+patient149_frame01_slice9.png,214,256,patient149_frame01_gt_slice9.png,214,256,1,"{0: 54038, 85: 103, 170: 280, 255: 363}",0
+patient149_frame01_slice10.png,214,256,patient149_frame01_gt_slice10.png,214,256,1,"{0: 54597, 255: 187}",0
+patient149_frame12_slice2.png,214,256,patient149_frame12_gt_slice2.png,214,256,1,"{0: 52969, 170: 740, 255: 1075}",0
+patient149_frame12_slice3.png,214,256,patient149_frame12_gt_slice3.png,214,256,1,"{0: 51267, 85: 1392, 170: 1013, 255: 1112}",0
+patient149_frame12_slice4.png,214,256,patient149_frame12_gt_slice4.png,214,256,1,"{0: 51500, 85: 1162, 170: 1082, 255: 1040}",0
+patient149_frame12_slice5.png,214,256,patient149_frame12_gt_slice5.png,214,256,1,"{0: 52147, 85: 732, 170: 986, 255: 919}",0
+patient149_frame12_slice6.png,214,256,patient149_frame12_gt_slice6.png,214,256,1,"{0: 52476, 85: 604, 170: 813, 255: 891}",0
+patient149_frame12_slice7.png,214,256,patient149_frame12_gt_slice7.png,214,256,1,"{0: 53186, 85: 231, 170: 760, 255: 607}",0
+patient149_frame12_slice8.png,214,256,patient149_frame12_gt_slice8.png,214,256,1,"{0: 53531, 85: 162, 170: 641, 255: 450}",0
+patient149_frame12_slice9.png,214,256,patient149_frame12_gt_slice9.png,214,256,1,"{0: 54115, 85: 66, 170: 434, 255: 169}",0
+patient149_frame12_slice10.png,214,256,patient149_frame12_gt_slice10.png,214,256,1,"{0: 54567, 255: 217}",0
+patient150_frame01_slice1.png,216,256,patient150_frame01_gt_slice1.png,216,256,1,"{0: 51827, 85: 1773, 170: 659, 255: 1037}",0
+patient150_frame01_slice2.png,216,256,patient150_frame01_gt_slice2.png,216,256,1,"{0: 51986, 85: 1491, 170: 744, 255: 1075}",0
+patient150_frame01_slice3.png,216,256,patient150_frame01_gt_slice3.png,216,256,1,"{0: 52422, 85: 1106, 170: 700, 255: 1068}",0
+patient150_frame01_slice4.png,216,256,patient150_frame01_gt_slice4.png,216,256,1,"{0: 52888, 85: 768, 170: 637, 255: 1003}",0
+patient150_frame01_slice5.png,216,256,patient150_frame01_gt_slice5.png,216,256,1,"{0: 53339, 85: 532, 170: 536, 255: 889}",0
+patient150_frame01_slice6.png,216,256,patient150_frame01_gt_slice6.png,216,256,1,"{0: 53785, 85: 336, 170: 465, 255: 710}",0
+patient150_frame01_slice7.png,216,256,patient150_frame01_gt_slice7.png,216,256,1,"{0: 54354, 85: 171, 170: 366, 255: 405}",0
+patient150_frame01_slice8.png,216,256,patient150_frame01_gt_slice8.png,216,256,1,"{0: 54984, 170: 195, 255: 117}",0
+patient150_frame12_slice2.png,216,256,patient150_frame12_gt_slice2.png,216,256,1,"{0: 53048, 85: 1040, 170: 892, 255: 316}",0
+patient150_frame12_slice3.png,216,256,patient150_frame12_gt_slice3.png,216,256,1,"{0: 53242, 85: 718, 170: 983, 255: 353}",0
+patient150_frame12_slice4.png,216,256,patient150_frame12_gt_slice4.png,216,256,1,"{0: 53605, 85: 426, 170: 911, 255: 354}",0
+patient150_frame12_slice5.png,216,256,patient150_frame12_gt_slice5.png,216,256,1,"{0: 53762, 85: 367, 170: 884, 255: 283}",0
+patient150_frame12_slice6.png,216,256,patient150_frame12_gt_slice6.png,216,256,1,"{0: 54074, 85: 211, 170: 843, 255: 168}",0
+patient150_frame12_slice7.png,216,256,patient150_frame12_gt_slice7.png,216,256,1,"{0: 54543, 85: 97, 170: 554, 255: 102}",0
+patient150_frame12_slice8.png,216,256,patient150_frame12_gt_slice8.png,216,256,1,"{0: 55090, 170: 189, 255: 17}",0
